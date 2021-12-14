@@ -1,4 +1,4 @@
-# InformatikProjektNr.2
+# Informatik Projekt Nr. 2
 Unser zweites Projekt im Informatikkurs der 12. Klasse.
 
 
