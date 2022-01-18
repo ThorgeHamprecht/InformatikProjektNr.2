@@ -29,7 +29,11 @@ Folglich haben sie uns vorgeschlagen etwas zu erstellen, bei dem wir das Kamerab
 
 Heute haben wir an unserem Github gearbeitet und unsere Ideen vom letzen Eintrag in Skizzen umgewandelt. Dabei haben wir weiter über unsere Ideen gesprochen und abgewägt, welche Idee wir umsetzen wollen. Aktuell gibt es für uns vor allem zwei Optionen. 
 1. Option: Tracken des Objekt und daraus etwas cooles machen
+
+<img width="677" alt="Anwendung für OpenCV" src="https://user-images.githubusercontent.com/88385813/149953739-93029453-4240-44f8-9405-73c55f04367d.png">
+
 2. Unity: Wir erstellen ein dreidimensionales Spiel mit Unity
 
 Aktuell sind wir uns noch nicht sicher, welche dieser Optionen wir umsetzen wollen. Auf der einen Seite hätten wir Lust etwas komplett neues zu machen.
 Bei Unity sind wir uns sicher, dass wir zu einen guten Ergebnis kommen würden.
+
