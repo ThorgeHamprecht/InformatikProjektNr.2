@@ -37,3 +37,25 @@ Heute haben wir an unserem Github gearbeitet und unsere Ideen vom letzen Eintrag
 Aktuell sind wir uns noch nicht sicher, welche dieser Optionen wir umsetzen wollen. Auf der einen Seite hätten wir Lust etwas komplett neues zu machen.
 Bei Unity sind wir uns sicher, dass wir zu einen guten Ergebnis kommen würden.
 
+## Dienstag 18.01.2022
+
+Angefangen mit unserem P
+
+## Mittwoch 19.01.2022
+
+
+## Dienstag 25.01.2022
+Er war krank. Trotzdem gearbeitet.
+
+## Mittwoch 26. 01.2022
+Er war krank. Trotzdem gearbeitet.
+
+## Dienstag 01.02.2022
+
+Heute haben wir angefangen unseren Ball zu Kalibrieren. Dafür sind wir in den Raum N4 gegangen und haben den Computer wie auf dem folgenden Bild zu sehen platziert.
+Die Entfernung zur Tafel haben wir mithilfe eines Maßbandes ausgemessen.
+BILD, welches wir aufgenommen haben:
+
+Diese betrug 1,83 Meter. 
+Anschließend haben wir den Radius im Bezug auf den Ball ausgemessen und anschließend eingestellt. 
+Des weiteren haben wir die Tafel ausgemessen. Dabei sind wir zu dem Ergebnis gekommen, dass die Breite der Tafel 1,94 Meter beträgt.
