@@ -71,3 +71,9 @@ Des weiteren haben wir die Tafel ausgemessen. Dabei sind wir zu dem Ergebnis gek
 Heute haben wir noch weiter an unsere Kalibrierung des Balles gearbeitet. Dafür sind wir in den Raum L gegangen und haben den Computer wie folgt plaziert. 
 Zu
 
+## Dienstag 08.02.2022
+
+Heute haben wir uns damit beschäftigt wie wir die Vektorrechnung durch zwei Messpunkte, um die Bahnkurve des Balles zu berechnen ersetzen können. Stattdessen wollen wir versuchen durch verschiedene, mehrere Messpunkte ein Lineares Gleichungssystem zu erstellen und die Polynomgleichung zweiten Gerades zu errechnen. 
+Zunächst haben wir die Funktion dritten Gerades bei Geogebra eingegeben.
+Anschließend haben wir aus der Funktion drei Werte abgelesen und anschließend bei Notability ein lineares Gleichungssystem erstellt. Folglich haben wir die drei Unbekannte a,b und c errechnet.
+Bei einem Vergleich mit der Ursprungsfunktion konnten wir feststellen, dass sich die Funktion stark ähnelt.
