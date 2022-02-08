@@ -5,7 +5,13 @@ Unser zweites Projekt im Informatikkurs der 12. Klasse.
 # Stundenprotokolle
 
 ## Dienstag 14.12.2021
-Projektfindung -> Umwandlung physischer Bewegung in Digitale? Unity?
+Heute haben wir uns mit unserer Projektfindung beschäftigt. Nachdem Sie auf uns zugekommen sind und uns gesagt haben, dass wir unser neues Projekt auch mit Unity machen könnten haben wir uns zunächst mit dieser Idee beschäftigt. 
+Um unseren Projektfindungsprozess weiter zu strukturieren haben wir eine Mindmap konstruiert, welche wir in der folgenden Zeit immer weiter updaten wollen. 
+Ein Vorteil mit Unity zu arbeiten wäre in jedem Fall, dass wir ein Spiel in dreidimensionaler Weise erstellen könnten. Da wir bei dem letzten Projekt mit Snap! nur in zweidimensionaler Weise arbeiten konnten wäre ein dreidimensionales Spiel eine neue und interessante Herrausforderung für uns.
+Zudem könnten wir von der verbesserten Performance profitieren, welche Unity aufweist.
+
+![Mindmap Informatikprojekt](https://user-images.githubusercontent.com/88385954/153005025-9c58db7c-00c2-41a1-bce0-4ad6b71da111.png)
+
 
 ## Mittwoch 15.12.2021
 Internetrecherche bezüglich des Projekts. Findung des Kameratools und downloaden von . Zusätzlich haben wir eine Mindmap erstellt mit der wir unseren Prozess der Ideenfindung festhalten wollen und welche uns helfen soll die passende Idee für unser Projekt zu finden.
@@ -48,7 +54,7 @@ Angefangen mit unserem P
 Er war krank. Trotzdem gearbeitet.
 
 ## Mittwoch 26. 01.2022
-Er war krank. Trotzdem gearbeitet.
+Leider war Herr Buhl heute krank. Trotzdem gearbeitet.
 
 ## Dienstag 01.02.2022
 
@@ -59,3 +65,9 @@ BILD, welches wir aufgenommen haben:
 Diese betrug 1,83 Meter. 
 Anschließend haben wir den Radius im Bezug auf den Ball ausgemessen und anschließend eingestellt. 
 Des weiteren haben wir die Tafel ausgemessen. Dabei sind wir zu dem Ergebnis gekommen, dass die Breite der Tafel 1,94 Meter beträgt.
+
+## Mittwoch 02.02.20222
+
+Heute haben wir noch weiter an unsere Kalibrierung des Balles gearbeitet. Dafür sind wir in den Raum L gegangen und haben den Computer wie folgt plaziert. 
+Zu
+
