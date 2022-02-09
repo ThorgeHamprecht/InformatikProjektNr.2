@@ -77,3 +77,12 @@ Heute haben wir uns damit beschäftigt wie wir die Vektorrechnung durch zwei Mes
 Zunächst haben wir die Funktion dritten Gerades bei Geogebra eingegeben.
 Anschließend haben wir aus der Funktion drei Werte abgelesen und anschließend bei Notability ein lineares Gleichungssystem erstellt. Folglich haben wir die drei Unbekannte a,b und c errechnet.
 Bei einem Vergleich mit der Ursprungsfunktion konnten wir feststellen, dass sich die Funktion stark ähnelt.
+
+## Mittwoch 09.02.2022
+
+Heute haben wir die gestern ausprobierte Methode getestet.
+Dabei sind uns leider einige Fehler aufgefallen.
+DIAGRAMME HIER:
+
+
+Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
