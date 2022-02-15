@@ -86,3 +86,19 @@ DIAGRAMME HIER:
 
 
 Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
+
+
+## Dienstag 15.02.2022
+
+Den heutigen Tag haben wir uns mit einer praktischen Andwendung beschäftigt. 
+Dazu sind wir in unseren Klassenraum N4 gegangen. In der letzen Woche haben wir beim Ausprobieren festgestellt, dass die Messwerte nicht gut waren. Als eine mögliche Ursache konnten wir die Ähnlichkeit der Wandfarbe mit dem Tennisball identifizieren. Aus diesem Grund haben wir heute zwei weiße Bettlaken mitgenommen, um die Tafel in N4 sowie den Teil der Wand, welcher auf unserem Bild zu sehen ist damit abzuhängen. Folglich war unsere Arbeit zu Beginn der Stunde vor allem dadurch gekennzeichnet, dass wir versucht haben die Bettlaken so aufzuhängen, dass die Wand nicht mehr zu sehen ist. Nachdem wir das geschafft haben konnten wir durch einen Probeversuch einer Messung ohne den Ball im Bild überprüfen, ob noch etwas im Bild getracket wird. Wir konnten feststellen, dass dies nicht der Fall war, woraufhin wir mit den eigentlichen Messungen begonnen haben. Wir haben zudem das Maßband auf dem Boden plaziert, um die Messergebnisse überprüfen zu können.
+Danach haben wir unseren ersten Wurf gemacht. Wir haben festgestellt, dass der Wurf in der Realität 1,9 Meter lang war. Nach unserern Berechnungen sind wir bei dem gleichen Wurf jedoch auf eine Weite von 2,8 Meter gekommen. Aus diesem Grund haben wir uns anschließend damit beschäftigt die Berechnungen zu verbessern. Zunächst haben wir eine Messung gestartet, bei der wir den Tennisball an den linken Bildrand gehalten haben, von wo auch in der Realität gemessen wird. Von Relevanz war bei dieser Messung nur die X-Koordinate. Wir haben einen Wert von X=0,0044 bekommen. Anschließend haben wir eine neue Messung durchgeführt, bei der wir den Ball über die 1 Meter Marke des Maßbands gehalten haben. Hier hat uns der Computer einen Messwert von 1,35 gegeben. Somit sind wir zu dem Entschluss gekommen, dass wir immer den zweiten Messwert durch 1,35 geteilt haben. 
+Nachdem wir dann einen weiteren Wurf durchgeführt haben mussten wir feststellen, dass unsere Ergebnisse immer noch nicht gut genug der Realität entsprechen.
+Wir haben uns anschließend darüber unterhalten, was zu besseren Ergebnissen führen könnte. 
+1. Die Distanz von der Kamera zu dem Hintergrund ist zu gering. Durch den Blickwinkel der Kamera verändert sich ungewollt die Geschwindigkeit, wenn der Ball an der Kamera vorbei fliegt. Die Geschwindigkeit ist genau dann am schnellsten, wenn der Ball sich direkt vor der Kamera befindet.
+2. Der Ball ist zu klein. Durch einen größeren Ball, wie z.B. einen Basketball könnten wir ein besseres Erkennen auch bei einer größeren Distanz zwischen der Kamera und dem Hintergrund erreichen.
+3. Des Weiteren könnten wir durch eine bessere Kamera ein genaueres Tracking erreichen, bei der die Bildrate höher ist als bei der Computerkamera
+
+Um diese Dinge auszuprobieren wollen wir uns am Wochenende bei Jannik treffen. Wir erhoffen uns dadurch bessere Messwerte zu erhalten.
+
+
