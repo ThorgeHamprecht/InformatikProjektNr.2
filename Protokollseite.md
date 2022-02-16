@@ -101,4 +101,24 @@ Wir haben uns anschließend darüber unterhalten, was zu besseren Ergebnissen f�
 
 Um diese Dinge auszuprobieren wollen wir uns am Wochenende bei Jannik treffen. Wir erhoffen uns dadurch bessere Messwerte zu erhalten.
 
+## Mittwoch 16.02.2022
+
+Heute haben wir uns mit den Grundlagen der Simulation beschäftigt. Unserer Grundidee ist, dass das die Geworfenen Bälle anschließend in einer Spielform in einer Simulation umgesetzt werden sollen. Aus diesem Grund haben wir uns heute zunächst damit beschäftigt, zu recherchieren, wie wir die Flugbahn des Balles in eine Simulation umwandeln wollen. Dafür haben wir erstmal im Team darüber gesprochen, wie die Simulation bzw. die Spielidee aussehen soll. 
+
+Unser Ziel für die Simulation soll wie folgt aussehen:
+Unsere Idee ist, dass der Spieler im echten Leben einen Ball werfen muss. Wie weit er diesen Ball werfen muss ist abhängig von der Distanz der Spielerfigur von dem Zielobjekt in der Simulation. Dem Spieler soll dann die Distanz angegeben werden woraufhin er versucht den Ball genau so weit zu werfen. Er kann den Wurf durch die Simulation in einem kleinen Raum durchführen, da nur ein geringer Bildausschnitt dafür benötigt wird. Nach seinem Wurf wird die Flugkurve des Balles in die Simulation übertragen und der Spieler kann sein Ergebnis betrachten. Anschließend sollen Punkte vergeben werden.
+
+Dementsprechend mussten wir erst einmal Internetrecherche betreiben, um zu verstehen, wie wir die Simulation programmieren müssen. Die weitere Optimierung des Balltrackings haben wir auf Samstag verschoben, da wir in der Schule zu dem entschluss gekommen sind, dass wir hier nicht weiter daran arbeiten wollen, da uns keine optimale weiße Wand zur Verfügung steht.
+Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch einige Bilder eingügen müssen. Außerdem wollen wir mit der Codebeschreibung anfangen.
+
+
+
+
+
+
+
+
+
+
+
 
