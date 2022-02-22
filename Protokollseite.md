@@ -14,7 +14,6 @@ Das Spielkonzept
 4. [Reflexion des Projekts](#Reflex)
 5. [Quellen](#Quellen)
 
-# Stundenprotokolle
 
 ## :ledger:Stundenprotokoll<a name="prot"></a>
  
@@ -190,6 +189,15 @@ Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch ei
 
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
 Zudem haben wir weiter unseren Code beschrieben.
+
+## 🔧Arbeitsmethoden<a name="Methoden"></a>
+
+## 📥Reflexion des Projekts<a name="Reflex"></a>
+
+
+## ℹ️Quellen<a name="Quellen"></a>
+Balltracking mit Python
+
 
 
 
