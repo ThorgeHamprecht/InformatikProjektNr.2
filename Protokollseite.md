@@ -31,24 +31,23 @@ Das Spielkonzept
   <tr>
     <td><a href=#sechs>Dienstag, 18. Januar</a></td>
     <td><a href=#sieben>Mittwoch, 19. Januar</a></td>
-    <td><a href=#acht>Mittwoch, 25. Januar</a></td>
-    <td><a href=#neun>Diesntag, 26. Januar</a></td>
+    <td><a href=#acht>Dienstag, 25. Januar</a></td>
+    <td><a href=#neun>Mittwoch, 26. Januar</a></td>
     <td><a href=#zehn>Dienstag, 01. Februar</a></td>
   </tr>
   <tr>
     <td><a href=#elf>Mittwoch, 02. Februar</a></td>
-    <td><a href=#zwölf>Mittwoch, 08. Februar</a></td>
+    <td><a href=#zwölf>Dienstag, 08. Februar</a></td>
     <td><a href=#dreizehn>Mittwoch, 09. Februar</a></td>
     <td><a href=#vierzehn>Dienstag, 15. Feburar</a></td>
     <td><a href=#fünfzehn>Mittwoch, 16. Februar</a></td>
   </tr>
-  
   <tr>
     <td><a href=#sechzehn>Dienstag, 22. Februar</a></td>
-    <td><a href=#siebzehn>Mittwoch, 08. Februar</a></td>
-    <td><a href=#achtzehn>Mittwoch, 09. Februar</a></td>
-    <td><a href=#neunzehn>Dienstag, 15. Feburar</a></td>
-    <td><a href=#zwanzig>Mittwoch, 16. Februar</a></td>
+    <td><a href=#siebzehn>Mittwoch, 23. Februar</a></td>
+    <td><a href=#achtzehn>Dienstag, 01. März</a></td>
+    <td><a href=#neunzehn>Mittwoch, 02. März</a></td>
+    <td><a href=#zwanzig>Dienstag, 08. März</a></td>
   </tr>
 </table>
  
