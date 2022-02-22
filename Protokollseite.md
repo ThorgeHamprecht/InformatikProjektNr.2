@@ -1,6 +1,11 @@
 # Informatik Projekt Nr. 2
 Unser zweites Projekt im Informatikkurs der 12. Klasse.
 
+Das Spielkonzept
+
+
+
+
 
 # Stundenprotokolle
 
@@ -14,14 +19,17 @@ Zudem könnten wir von der verbesserten Performance profitieren, welche Unity au
 
 
 ## Mittwoch 15.12.2021
-Internetrecherche bezüglich des Projekts. Findung des Kameratools und downloaden von . Zusätzlich haben wir eine Mindmap erstellt mit der wir unseren Prozess der Ideenfindung festhalten wollen und welche uns helfen soll die passende Idee für unser Projekt zu finden.
+
+Heute haben wir Internetrecherche bezüglich des neuen Projekts betrieben. Dazu haben wir uns zunächst damit beschäftigt mit welchem Programm wir unser Projekt durchführen wollen. Wir sind zu dem entschluss gekommen, dass sich Python gut eignen würde. Bei unserer Recherche haben wir uns überdies bereits damit beschäftigt wie wir das Objekt bzw. den Ball tracken wollen. Dabei sind wir auf ein sehr aufschlussreiches Tool zum Tracken des Balles gestoßen. Da der Code dafür in Python war haben wir uns dazu entschlossen, auch unser Projekt in Python zu machen.
+Den zweiten Teil der Stunde haben wir damit verbracht Pytho zu downloaden sowie das Kameratool zu implementieren. 
+Wir sind uns zum jetzigen Zeitpunkt noch nicht sicher, ob unsere Idee nach unseren Vorstellungen umsetzbar ist. Wir wollen uns deshalb bis mitte Januar Zeit geben und dann entscheiden, ob wir immer noch an unserer Idee festhalten wollen.
 
 ## Dienstag 21.12.2021
 Heute haben wir mit Ihnen Secret Hitler gespielt.
 
 ## Dienstag 11.01.2021
 
-Wir haben Ihnen unser Projekt vorgestellt. Dabei haben wir ihnen erzählt, dass wir planen einen Ball im "echten" Leben zu werfen und mit einer Kamera zu tracken. Das entsprechende Tool, welches wir im Internet gefunden haben, haben wir ihnen vorgestellt. Dabei ist das Tool vor allem deshalb wichtig, weil es Objekte erkennen kann. Mit einer roten Kappe von einem Klebestift haben wir Ihnen das Tool, welches wir mit Phython geöffnet haben, vorgestellt und demonstriert wie unsere Idee konkret umgesetzt werden soll. Von Zuhause haben wir einen Tennisball mitgebracht. Während wir Ihnen unsere Idee vorgestellt haben, versuchten wir gemeinsam den "Filter", welcher das Objekt tracken soll auf den Tennisball zu übertragen. Hierbei haben wir festgestellt, dass es einer sehr genauen Anpassung bedarf, damit auschließlich das Objekt und nicht auch noch andere Dinge im Blickwinkel der Kamera als Objekt erkannt werden.
+Wir haben Ihnen unsere Projektidee vorgestellt. Dabei haben wir ihnen erzählt, dass wir planen einen Ball im "echten" Leben zu werfen und mit einer Kamera zu tracken. Das entsprechende Tool, welches wir im Internet gefunden haben, haben wir ihnen vorgestellt. Dabei ist das Tool vor allem deshalb wichtig, weil es Objekte erkennen kann. Mit einer roten Kappe von einem Klebestift haben wir Ihnen das Tool, welches wir mit Phython geöffnet haben, vorgestellt und demonstriert wie unsere Idee konkret umgesetzt werden soll. Von Zuhause haben wir einen Tennisball mitgebracht. Während wir Ihnen unsere Idee vorgestellt haben, versuchten wir gemeinsam den "Filter", welcher das Objekt tracken soll auf den Tennisball zu übertragen. Hierbei haben wir festgestellt, dass es einer sehr genauen Anpassung bedarf, damit auschließlich das Objekt und nicht auch noch andere Dinge im Blickwinkel der Kamera als Objekt erkannt werden.
 Dazu haben wir folgendes Tool verwendet:
 
 
@@ -112,6 +120,10 @@ Dementsprechend mussten wir erst einmal Internetrecherche betreiben, um zu verst
 Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch einige Bilder eingügen müssen. Außerdem wollen wir mit der Codebeschreibung anfangen.
 
 
+## Dienstag 22.02.2022
+
+Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
+Zudem haben wir weiter unseren Code beschrieben.
 
 
 
