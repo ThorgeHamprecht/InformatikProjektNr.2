@@ -1,12 +1,40 @@
 # Informatik Projekt Nr. 2
 Unser zweites Projekt im Informatikkurs der 12. Klasse.
 
-Das Spielkonzept
+**Das Spielkonzept - Grundlagen:**
+
+Unsere Idee ist es ein Spiel zu entwickeln, welches die reale Welt mit der virtuellen Welt verbindet.
+Der Spieler steht im echten Leben vor einer Linie und hält einen hautfarbenen Ball in der Hand. Auf dem Computer sieht er eine Spielfigur, welche eben die selbe Ausgangsposition hat. Der Unterschied zwischen dem "echten" Leben und dem Computer ist jedoch, dass auf dem Computer eine Tonne zu sehen ist, welche vor der Spielfigur zu sehen ist. Darüber befindet sich eine Anzeige welche eine Entfernung zwischen der Spielfigur und der Tonne angibt. 
+Der Spieler im "echten" Leben muss nun versuchen den Ball genau so weit zu werfen, wie die Entfernung auf dem Bildschirm angibt. 
+Nachdem er den Ball geworden hat rechnet der Computer die Distanz seines Wurfes aus. Die Flugbahn wird folglich auf die Simulation im Bildschirm übertragen und der Spieler kann verfolgen, ob er den Ball richtig weit geworden hat.
+Es lassen sich zudem am Computer verschiedene Distanzen für die Tonne einstellen, um den Schwierigkeitsgrad zu verändern. Wenn man die Tonne weiter weg plaziert, so ist es für den Spieler schwieriger den Ball genau in der richtigen Distanz zu werfen. Ist die Tonne näher an dem Spieler dran, dann ist es leichter die richtige Distanz zu werfen.
+Wir wollen mit unserem Spiel etwas entwerfen, was die Kombination zwischen virtueller Welt und realer Welt beinhaltet.
+Ferne ist die Messung der Ballweite auch für mögliche Wurfanalysen z.B. im schulischen Sportunterricht möglich einzusetzen.
+
+Im Folgenden möchten wir zur Verdeutlichung unsere Idee einmal den Aufbau und die Vorraussetzung für eine erfolgreiche Messung der Wurfweite uns somit für ein erfolgreiches Spielen des Spieles erläutern.
+
+**Aufbau:**
+Bei dem Aufbau ist es wichtig, dass sich der Spieler im echten Leben vor einer weißen Wand befindet. Zudem werden die Messwerte immer besser, wenn die Wand stark ausgeleuchtet ist. Somit eignet sich ein Positionieren im Außenbereich nur bedingt für eine erfolgreiche Durchführung des Spiels. Im Außenbereich ist das hauptsächliche Problem die Änderung von Lichtverhältnissen. Durch den Wechsel von Sonne und Wolken ändert sich wohlmöglich die Einstellung für eine optimale Erkennung des Balles. Aus diesem Grund empfehlen wir eine Durchführung unseres Spieles im Innenraum vor einer weißen und gut beleuchteten Wand.
+Für den genauen Aufbau ist es auch wichtig den Ball richtig zu kalibrieren und die Distanzen richtig einzustellen. 
+Dafür bitten wir, das folgende Bild zu beachten und den Aufbau exakt nach unseren Empfehlungen durchzuführen.
+
+**Skizze zum Aufbau**
 
 
 
 
- ## Inhaltsverzeichnis
+
+
+**Spiel Durchführung**
+
+
+
+**Ziel des Spiels und Möglichkeiten zum Benutzen unseres Projektes**
+
+
+
+
+## Inhaltsverzeichnis
 
 1. [Projektseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Projektseite%20Informatik%20Projekt%202)
 2. [Stundenprotokoll](#prot)
@@ -166,8 +194,16 @@ Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch ei
 
 ## Dienstag 22.02.2022<a name="sechszehn"></a>
 
+Zuhause haben wir die bei Jannik zuhause einmal den Aufbau genau durchgeführt und anschließend einige Wurfversuche durchgeführt.
+
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
 Zudem haben wir weiter unseren Code beschrieben.
+Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere 
+
+
+## Mittwoch 23.02.2022<a name="siebzehn"></a>
+
+Heute haben wir uns damit beschäftigt die Simulation anhand der vorher berechneten Bahnkurve zu bewegen.
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
 
