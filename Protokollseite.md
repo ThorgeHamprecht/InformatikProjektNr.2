@@ -158,12 +158,18 @@ Zunächst haben wir die Funktion dritten Gerades bei Geogebra eingegeben.
 Anschließend haben wir aus der Funktion drei Werte abgelesen und anschließend bei Notability ein lineares Gleichungssystem erstellt. Folglich haben wir die drei Unbekannte a,b und c errechnet.
 Bei einem Vergleich mit der Ursprungsfunktion konnten wir feststellen, dass sich die Funktion stark ähnelt.
 
+
+
+![Errechnung der Bahnkurve des Wurfes](https://user-images.githubusercontent.com/88385954/156192539-432400b5-0a01-4575-9f80-7e04da871cd6.png)
+
+
+
+
 ## Mittwoch 09.02.2022<a name="dreizehn"></a>
 
 Heute haben wir die gestern ausprobierte Methode getestet.
 Dabei sind uns leider einige Fehler aufgefallen.
 DIAGRAMME HIER:
-
 
 Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
 
@@ -180,6 +186,17 @@ Wir haben uns anschließend darüber unterhalten, was zu besseren Ergebnissen f�
 3. Des Weiteren könnten wir durch eine bessere Kamera ein genaueres Tracking erreichen, bei der die Bildrate höher ist als bei der Computerkamera
 
 Um diese Dinge auszuprobieren wollen wir uns am Wochenende bei Jannik treffen. Wir erhoffen uns dadurch bessere Messwerte zu erhalten.
+
+
+
+
+![Errechnung der Bahnkurve des Wurfes](https://user-images.githubusercontent.com/88385954/156192653-b2bb0c5a-21ca-4c7b-a050-41d2b21d77d1.png)
+
+
+
+
+
+
 
 ## Mittwoch 16.02.2022<a name="fünfzehn"></a>
 
@@ -204,6 +221,19 @@ Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere
 ## Mittwoch 23.02.2022<a name="siebzehn"></a>
 
 Heute haben wir uns damit beschäftigt die Simulation anhand der vorher berechneten Bahnkurve zu bewegen.
+
+## Dienstag
+
+Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu setzen und die Zeit anzupassen.  Darüber hinaus haben wir uns damit beschäftigt 
+
+
+![Notiz 01 03 2022 151827](https://user-images.githubusercontent.com/88385954/156192390-53c1c4df-41c6-46f3-aed3-2e86504cf93a.png)
+
+
+
+
+
+
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
 
