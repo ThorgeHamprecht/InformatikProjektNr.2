@@ -188,14 +188,7 @@ Wir haben uns anschließend darüber unterhalten, was zu besseren Ergebnissen f�
 Um diese Dinge auszuprobieren wollen wir uns am Wochenende bei Jannik treffen. Wir erhoffen uns dadurch bessere Messwerte zu erhalten.
 
 
-
-
-![Errechnung der Bahnkurve des Wurfes](https://user-images.githubusercontent.com/88385954/156192653-b2bb0c5a-21ca-4c7b-a050-41d2b21d77d1.png)
-
-
-
-
-
+![IMG_1191](https://user-images.githubusercontent.com/88385954/156193369-7434922d-2456-45e4-81a4-06749ac34d67.jpeg)
 
 
 ## Mittwoch 16.02.2022<a name="fünfzehn"></a>
@@ -216,6 +209,17 @@ Zuhause haben wir die bei Jannik zuhause einmal den Aufbau genau durchgeführt u
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
 Zudem haben wir weiter unseren Code beschrieben.
 Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere 
+
+**Messwerte der ersten Messung von zuhause**
+
+<img width="331" alt="Bildschirmfoto 2022-02-15 um 15 28 48" src="https://user-images.githubusercontent.com/88385954/156193089-e9ef5838-9388-4806-bc43-0606b51f097d.png">
+
+
+<img width="274" alt="Bildschirmfoto 2022-02-15 um 15 31 35" src="https://user-images.githubusercontent.com/88385954/156193116-b2457152-7c92-4f7e-83f1-5b8172c559b3.png">
+
+Unsere Veränderungen
+
+
 
 
 ## Mittwoch 23.02.2022<a name="siebzehn"></a>
