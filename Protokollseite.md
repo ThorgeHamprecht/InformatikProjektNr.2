@@ -236,11 +236,15 @@ Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu
 
 ![Notiz 01 03 2022 151827](https://user-images.githubusercontent.com/88385954/156192390-53c1c4df-41c6-46f3-aed3-2e86504cf93a.png)
 
+Zudem haben wir uns heute mit der optischen Verbesserung unserer Simulation beschäftigt. Dafür haben wir am unteren Rand der Simulation eine Skalierung eingefügt. 
+Bei dieser Skalierung haben wir jeden Meter durch eine unterschiedliche Färbung gekennzeichnet. Somit kann der Spieler schnell auf einen blick sehen, wie weit die Tonne sich ungefähr von ihm weg befindet. Zudem haben wir die Skalierung für die genaueren Maßeinheiten angepasst. Dadurch können jede 10 Zentimeter nachvollzogen werden. 
+Als Gesamtlänge haben wir 6 Meter eingestellt, weil wir dadurch unser Spiel eher zu einem Geschicklichkeitsspiel machen und die Kraft bzw. die maximale Wurfweite nur eine untergeordnete Rolle spielt. Aus diesem Grund ist eine geringe Meteranzahl notwendig, damit jeder Spieler die entsprechende Weite erreichen kann.
 
 
 ![Bild 01 03 22 um 16 12](https://user-images.githubusercontent.com/88385954/156194841-3b92f31c-b7f1-4e83-9e6b-131c95d23ced.jpeg)
 
-
+Zuhause wollen wir weitere Messungen über die freien Tage durchführen, damit wir die Probleme, welche bisher noch vorhanden sind weiter zu verbessern. 
+Auch die Codebeschreibung wollen wir weiter vorranbringen. 
 
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
