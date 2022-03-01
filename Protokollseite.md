@@ -174,6 +174,9 @@ DIAGRAMME HIER:
 Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
 
 
+
+
+
 ## Dienstag 15.02.2022<a name="vierzehn"></a>
 
 Den heutigen Tag haben wir uns mit einer praktischen Andwendung beschäftigt. 
@@ -235,6 +238,7 @@ Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu
 
 
 
+![Bild 01 03 22 um 16 12](https://user-images.githubusercontent.com/88385954/156194841-3b92f31c-b7f1-4e83-9e6b-131c95d23ced.jpeg)
 
 
 
