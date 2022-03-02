@@ -207,7 +207,20 @@ Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch ei
 
 ## Dienstag 22.02.2022<a name="sechszehn"></a>
 
-Zuhause haben wir die bei Jannik zuhause einmal den Aufbau genau durchgeführt und anschließend einige Wurfversuche durchgeführt.
+Zuhause haben wir die bei Jannik zuhause einmal den Aufbau genau durchgeführt und anschließend einige Wurfversuche durchgeführt. Bei all unseren Messwerten haben wir überprüft, ob diese stimmen können, indem wir auf dem Boden ein Maßbahn hingelegt haben. Bei jedem Wurf haben wir die tatsächliche Länge des Wurfes mit dem errechneten Wert aus unserem Code verglichen. Nach einigen Würfen mit verschiedenen Längen haben wir jeweils ein Fazit gezogen und uns darüber verständigt, ob diese Veränderung färderlich für unsere Messgenauigkeit ist oder nicht. 
+Dabei sind wir systematisch die angesprochenen möglichen Fehlerquellen, welche wir bei den Messwerten in der Schule festgestellt haben, zu überprüfen und zu ändern. 
+Unser Ziel ist es auf eine Länge von 6 Metern die Länge in einer Richtigkeit von +/- 5cm errechnen zu können.
+
+1. Unsere erste Überlegung, warum die Messwerte bislang noch nicht unseren Ansprechen entsprechen war das Anschließen einer externen Kamera an unsere Simulation.
+Zunächst haben wir ein Webcam-Programm heruntergeladen, was nötig ist, damit Python direkt auf das Kamerabild zugreifen kann.
+Leider mussten wir feststellen, dass es dadurch keine signifikant besseren Messwerte gab. Aus diesem Grund haben wir uns entschieden, auch für die praktsiche Anwendung unseres Spiels, auf eine externe Kamera zu verzichten. 
+Bei einer solchen Kamera müssten die Spieler nicht nur einen Computer für das Spiel parat haben, sondern auch die Kamera mitführen. Das ist unpraktisch und bei unseren festgestellten Ergebnissen nicht nötig.
+
+2. Ein weiter signifikanter Faktor könnte das die Ballfarbe sein. Um dies zu verändern haben wir zu unseren Untersuchungen einen blauen Ball, einen gelben Ball einen hellrosanen Ball und einen roten Ball verwenden. Der Unterschied zwischen den Bällen ist jedoch das nur der hellrosane Ball komplett einfarbig ist. Bei den anderen Bällen sind neben der Hauptfarben noch andere Farben zu erkennen.
+Nachdem wir das erkennende Farbspektrum immer wieder neu umgestellt haben konnten wir weitere Versuche durchführen. 
+Unser Fazit bei dieser Veränderung ist, dass sich der hellrosane Ball am meisten eignet. Auch wenn die Farbe keine signifikante Farbe ist, haben die Messwerte am ehesten zu der Realität gepasst. Die Begründung ist die Einfarbigkeit des Balles.
+
+3. 
 
 
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
