@@ -209,6 +209,7 @@ Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch ei
 
 Zuhause haben wir die bei Jannik zuhause einmal den Aufbau genau durchgeführt und anschließend einige Wurfversuche durchgeführt.
 
+
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
 Zudem haben wir weiter unseren Code beschrieben.
 Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere 
@@ -227,11 +228,14 @@ Unsere Veränderungen
 
 ## Mittwoch 23.02.2022<a name="siebzehn"></a>
 
-Heute haben wir uns damit beschäftigt die Simulation anhand der vorher berechneten Bahnkurve zu bewegen.
+Heute haben wir uns damit beschäftigt die Simulation anhand der vorher berechneten Bahnkurve zu bewegen. 
+Dabei war unsere Vorgehensweise: ERKLÄRUNG FEHLT
+Es ist dabei das Problem eingetreten: ERKLÄRUNG FEHLT
+Wir haben das Problem gelöst, indem wir: ERKLÄRUNG FEHLT UND BILD
 
-## Dienstag
+## Dienstag 01.03.2022
 
-Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu setzen und die Zeit anzupassen.  Darüber hinaus haben wir uns damit beschäftigt 
+Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu setzen und die Zeit anzupassen. Darüber hinaus haben wir die eine Skalierung am unteren Rand der Simulation eingefügt. Die Meter-Anzahl wird jeweils immer durch die Farbönder
 
 
 ![Notiz 01 03 2022 151827](https://user-images.githubusercontent.com/88385954/156192390-53c1c4df-41c6-46f3-aed3-2e86504cf93a.png)
@@ -245,6 +249,31 @@ Als Gesamtlänge haben wir 6 Meter eingestellt, weil wir dadurch unser Spiel ehe
 
 Zuhause wollen wir weitere Messungen über die freien Tage durchführen, damit wir die Probleme, welche bisher noch vorhanden sind weiter zu verbessern. 
 Auch die Codebeschreibung wollen wir weiter vorranbringen. 
+Außerdem wollen wir einen Ort in der Natur finden, welchen wir in bearbeiteter Form im Hintergrund unserer Simulation noch einfügen wollen. Dadurch soll das Spielen noch ansprechender gestaltet werden.
+
+
+
+## Mittwoch 02.03.2022
+
+Heute haben wir versucht den Ball in unserer Simulation nach dem er die geworfene Bahnkurve nachgebildet hat zu stehen kommen.
+Dafür haben wir:
+
+
+ERKLÄRUNG FEHLT
+
+
+
+
+Des Weiteren haben wir heute versucht die Grafik noch genauer zu gestalten. Unser Ziel ist es, das es sich bei der Simulation um eine realitätsnahe Nachbildung der 
+Wirklichkeit handelt. Dafür wollen wir versuchen eine echte Situation, z.B. ein Feld im echten Leben, wo die Tonne drauf steht nachzubilden. 
+Somit wollen wir erreichen, dass sich der Spieler fühlt als sei er während des Spiels im echten Leben. 
+Um einen geeigneten Ort im echten Leben nachbilden zu können haben wir uns gestern nach dem Unterricht auf die Suche begeben diesen Ort grafisch nachzubilden.
+Eine Fotografie von dem entsprechenden Ort:
+
+BILD FEHLT
+
+Unsere Idee ist es mit dem Programm ... umsetzen. 
+
 
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
