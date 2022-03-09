@@ -222,7 +222,7 @@ Bei einer solchen Kamera müssten die Spieler nicht nur einen Computer für das 
 Nachdem wir das erkennende Farbspektrum immer wieder neu umgestellt haben konnten wir weitere Versuche durchführen. 
 Unser Fazit bei dieser Veränderung ist, dass sich der hellrosane Ball am meisten eignet. Auch wenn die Farbe keine signifikante Farbe ist, haben die Messwerte am ehesten zu der Realität gepasst. Die Begründung ist die Einfarbigkeit des Balles.
 
-3. 
+3. Auch die Ballgröße könnte eine Rolle spielen. 
 
 
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
