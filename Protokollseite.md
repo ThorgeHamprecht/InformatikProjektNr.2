@@ -1,6 +1,8 @@
 # Informatik Projekt Nr. 2
 Unser zweites Projekt im Informatikkurs der 12. Klasse.
 
+****Infinitythrow**
+
 **Das Spielkonzept - Grundlagen:**
 
 Unsere Idee ist es ein Spiel zu entwickeln, welches die reale Welt mit der virtuellen Welt verbindet.
@@ -246,7 +248,7 @@ Dabei war unsere Vorgehensweise: ERKLÄRUNG FEHLT
 Es ist dabei das Problem eingetreten: ERKLÄRUNG FEHLT
 Wir haben das Problem gelöst, indem wir: ERKLÄRUNG FEHLT UND BILD
 
-## Dienstag 01.03.2022
+## Dienstag 01.03.2022<a name="achtzehn"></a>
 
 Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu setzen und die Zeit anzupassen. Darüber hinaus haben wir die eine Skalierung am unteren Rand der Simulation eingefügt. Die Meter-Anzahl wird jeweils immer durch die Farbönder
 
@@ -266,7 +268,7 @@ Außerdem wollen wir einen Ort in der Natur finden, welchen wir in bearbeiteter 
 
 
 
-## Mittwoch 02.03.2022
+## Mittwoch 02.03.2022<a name="neunzehn"></a>
 
 Heute haben wir versucht den Ball in unserer Simulation nach dem er die geworfene Bahnkurve nachgebildet hat zu stehen kommen.
 Dafür haben wir:
@@ -286,6 +288,20 @@ Eine Fotografie von dem entsprechenden Ort:
 BILD FEHLT
 
 Unsere Idee ist es mit dem Programm ... umsetzen. 
+
+## Dienstag 08.02.2022<a name="zwanzig"></a>
+
+Heute ist der Informatikunterricht leider ausgefallen, da wir Schlittshuhlaufen waren.
+
+## Mittwoch 09.02.2022<a name="einundzwanzig"></a>
+
+Heute haben wir uns mit der weiteren Codebeschreibung beschäftigt. 
+Zudem haben wir diskutiert, wie wir unsere Codebeschreibung und unseren Github-Account grafisch darstellen möchten. 
+Wir haben uns dazu entschlossen viele grafische Bilder, die wir während unseres Enstehungsprozesses aufgenommen haben einzufügen, damit sich der Projektentwicklungsprozess gut nachvollziehen lässt.
+Den zweiten Teil der Stunde haben wir uns mit eine passende Namensgebung für unser Projekt diskutiert. 
+Zunächst kam uns der Name "real ball" in den Sinn. Diesen Namen haben wir aber ebenso wie den Namen "virtual ball" verworfen. 
+Wir wollen mit unserem Namen noch mehr die unbegrenzten Möglichkeiten unseres Spieles hervorheben.
+Deshalb haben wir uns für den Namen "infinitythrow" entschieden. Somit wird für den Nutzer bereits durch den Namen klar, das dem Spaß keine grenzen gesetzt werden und das es sich um ein Wurfspiel handelt.
 
 
 
