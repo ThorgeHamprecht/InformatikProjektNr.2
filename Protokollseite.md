@@ -1,7 +1,7 @@
 # Informatik Projekt Nr. 2
 Unser zweites Projekt im Informatikkurs der 12. Klasse.
 
-****Infinitythrow**
+**Infinitythrow**
 
 **Das Spielkonzept - Grundlagen:**
 
