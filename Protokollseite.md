@@ -222,7 +222,14 @@ Bei einer solchen Kamera müssten die Spieler nicht nur einen Computer für das 
 Nachdem wir das erkennende Farbspektrum immer wieder neu umgestellt haben konnten wir weitere Versuche durchführen. 
 Unser Fazit bei dieser Veränderung ist, dass sich der hellrosane Ball am meisten eignet. Auch wenn die Farbe keine signifikante Farbe ist, haben die Messwerte am ehesten zu der Realität gepasst. Die Begründung ist die Einfarbigkeit des Balles.
 
-3. Auch die Ballgröße könnte eine Rolle spielen. Bei größerer Ballgrößer erhöht sich die Wahrscheinlichkeit, dass der Ball besser erkannt wird. 
+3. Auch die Ballgröße könnte eine Rolle spielen. Bei größerer Ballgrößer erhöht sich die Wahrscheinlichkeit, dass der Ball besser erkannt wird. Aus diesem Grund haben wir uns für einen größeren Ball entschieden. 
+Unsere Ergebnisse haben bewiesen, dass die Messwerte durch diese Weise deutlich besser geworden sind.
+
+4. Ein weiterer Faktor bei unseren Ergebnissen war die Ausleuchtung unseres Projekts. Als wir die Testversuche in der Schule durchgeführt haben war ein Problem,dass die Beleuchtung auschließlich in schwacher Weise von oben gekommen ist.
+Außerdem wurden die Lichtverhältnisse stetig von der Umweltbelichtung beeinflusst.
+Nun haben wir versucht, diese Beeinflussung dadurch zu minimieren, dass wir mit hellen Leuchtern die Wände stärker bestrahlen. Auch nach dieser Veränderung konnten wir deutlich positive Veränderungen feststellen.
+
+5. 
 
 
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
@@ -308,10 +315,21 @@ Deshalb haben wir uns für den Namen "infinitythrow" entschieden. Somit wird fü
 Heute haben wir mit Ihnen über unser Projekt geredet. Dabei haben wir Ihnen erläutert wie unser Stand des Pojekts aussieht. 
 Zunächst haben wir Ihnen erläutert, wie wir nun unsere Bahnkurve berechnen. Dabei haben wir erläutert, dass wir nun ein lineares Gleichungssystem benutzen, um die Bahnkurve zu berechnen. Dieser Methode ist um einiges genauer als die vorherige Variante, wobei wir die Bahnkurve durch eine Verbindung zweier Punkte. Bei dem jetzigen Auswählen von 3 Punkten errechnet das Programm die genaue Bahnkurve. Somit konnten wir unser Ergebnis deutlich verbessern. 
 Anschließend haben wir Ihnen unsere Finale Spielidee erläutert und die Simulation angefange zu erklären. 
+
+HABEN WIR HEUTE LEIDER NICHT MIT IHM GESPROCHEN
+
 Des Weiteren haben wir die Verbesserungen, die wir bei Jannik im Keller herausgefunden haben beschrieben und die positiven Effekte erläutert.
 Bei der Simulation haben wir beschrieben was wir noch verändern wollen.
 Zudem möchten wir versuchen die Messunsicherheiten, welche mit Veränderung der Tiefe auftreten, zu minimieren. Dafür wollen wir uns noch einmal bei Jannik im Keller treffen, wo wir auch das gesamte Projekt Filmerisch aufzeichnen wollen, damit die Funktionsweise nachvollziebar ist.
 Nach dem Gespräch haben wir uns mit Github beschäftigt. Zudem sind wir bei der Simulation weitergekommen, indem nun der Ball in dem Fass landet.
+
+
+
+<img width="1208" alt="Simulation vom 15 03 2022" src="https://user-images.githubusercontent.com/88385954/158412545-d569b07c-17ff-4df7-8b92-6a1fe1403950.png">
+
+
+
+
 
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
