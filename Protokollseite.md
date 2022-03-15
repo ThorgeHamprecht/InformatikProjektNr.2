@@ -311,11 +311,18 @@ Anschließend haben wir Ihnen unsere Finale Spielidee erläutert und die Simulat
 Des Weiteren haben wir die Verbesserungen, die wir bei Jannik im Keller herausgefunden haben beschrieben und die positiven Effekte erläutert.
 Bei der Simulation haben wir beschrieben was wir noch verändern wollen.
 Zudem möchten wir versuchen die Messunsicherheiten, welche mit Veränderung der Tiefe auftreten, zu minimieren. Dafür wollen wir uns noch einmal bei Jannik im Keller treffen, wo wir auch das gesamte Projekt Filmerisch aufzeichnen wollen, damit die Funktionsweise nachvollziebar ist.
+Nach dem Gespräch haben wir uns mit Github beschäftigt. Zudem sind wir bei der Simulation weitergekommen, indem nun der Ball in dem Fass landet.
 
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
 
 ## 📥Reflexion des Projekts<a name="Reflex"></a>
+Unser Spiel "Infinity Ball" hat uns während der gesamten Erstellungsphase sehr viel Spaß gemacht.
+
+
+
+
+
 
 
 ## ℹ️Quellen<a name="Quellen"></a>
