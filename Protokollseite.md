@@ -303,6 +303,14 @@ Zunächst kam uns der Name "real ball" in den Sinn. Diesen Namen haben wir aber 
 Wir wollen mit unserem Namen noch mehr die unbegrenzten Möglichkeiten unseres Spieles hervorheben.
 Deshalb haben wir uns für den Namen "infinitythrow" entschieden. Somit wird für den Nutzer bereits durch den Namen klar, das dem Spaß keine grenzen gesetzt werden und das es sich um ein Wurfspiel handelt.
 
+## Dienstag 15.03.2022
+
+Heute haben wir mit Ihnen über unser Projekt geredet. Dabei haben wir Ihnen erläutert wie unser Stand des Pojekts aussieht. 
+Zunächst haben wir Ihnen erläutert, wie wir nun unsere Bahnkurve berechnen. Dabei haben wir erläutert, dass wir nun ein lineares Gleichungssystem benutzen, um die Bahnkurve zu berechnen. Dieser Methode ist um einiges genauer als die vorherige Variante, wobei wir die Bahnkurve durch eine Verbindung zweier Punkte. Bei dem jetzigen Auswählen von 3 Punkten errechnet das Programm die genaue Bahnkurve. Somit konnten wir unser Ergebnis deutlich verbessern. 
+Anschließend haben wir Ihnen unsere Finale Spielidee erläutert und die Simulation angefange zu erklären. 
+Des Weiteren haben wir die Verbesserungen, die wir bei Jannik im Keller herausgefunden haben beschrieben und die positiven Effekte erläutert.
+Bei der Simulation haben wir beschrieben was wir noch verändern wollen.
+Zudem möchten wir versuchen die Messunsicherheiten, welche mit Veränderung der Tiefe auftreten, zu minimieren. Dafür wollen wir uns noch einmal bei Jannik im Keller treffen, wo wir auch das gesamte Projekt Filmerisch aufzeichnen wollen, damit die Funktionsweise nachvollziebar ist.
 
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
