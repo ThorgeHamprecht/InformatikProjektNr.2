@@ -323,13 +323,15 @@ Bei der Simulation haben wir beschrieben was wir noch verändern wollen.
 Zudem möchten wir versuchen die Messunsicherheiten, welche mit Veränderung der Tiefe auftreten, zu minimieren. Dafür wollen wir uns noch einmal bei Jannik im Keller treffen, wo wir auch das gesamte Projekt Filmerisch aufzeichnen wollen, damit die Funktionsweise nachvollziebar ist.
 Nach dem Gespräch haben wir uns mit Github beschäftigt. Zudem sind wir bei der Simulation weitergekommen, indem nun der Ball in dem Fass landet.
 
-
-
 <img width="1208" alt="Simulation vom 15 03 2022" src="https://user-images.githubusercontent.com/88385954/158412545-d569b07c-17ff-4df7-8b92-6a1fe1403950.png">
 
+## Mittwoch 16.03.2022
 
-
-
+Heute haben wir die Kollistionserkennung in der Simulation programmiert. Somit wird nun erannt, ob der Ball das Fass trifft oder nicht. Damit sind wir in unserer Simulation einen entscheidenen Schritt weitergekommen.
+Als nächsten Schritt möchten wir das Score-System in der Simulatin erschaffen werden. 
+Hierbei haben wir uns ein Puntesystem überlegt, bei dem unterschiedliche Punkte für die verschiedenen Schwierigkeitsstufen der Würde vergeben werden.
+In dem Bereich von 0 Meter bis 2 Meter soll der Spieler bei einem Treffer einen Punkt erhalten. Bei einen Treffer im Bereich 2 bis 4 Meter soll der Spieler bei einem Treffer zwei Punkte erhalten. Bei einem Treffer im Bereich 4 Meter bis 6 Meter bekommt der Spieler drei Punkte.
+Dadurch wollen wir unser Spiel noch spannender machen und eine nachvollziebare Skarla im Bezug auf die Punktevergabe soll einen fairen Spielverlauf ermöglichen.
 
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
