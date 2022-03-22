@@ -336,6 +336,7 @@ Dadurch wollen wir unser Spiel noch spannender machen und eine nachvollziebare S
 Heute haben wir mit Ihnen über unser Projekt geredet. Dabei haben wir Ihnen erläutert wie unser Stand des Pojekts aussieht. 
 Zunächst haben wir Ihnen erläutert, wie wir nun unsere Bahnkurve berechnen. Dabei haben wir erläutert, dass wir nun ein lineares Gleichungssystem benutzen, um die Bahnkurve zu berechnen. Dieser Methode ist um einiges genauer als die vorherige Variante, wobei wir die Bahnkurve durch eine Verbindung zweier Punkte. Bei dem jetzigen Auswählen von 3 Punkten errechnet das Programm die genaue Bahnkurve. Somit konnten wir unser Ergebnis deutlich verbessern. 
 Anschließend haben wir Ihnen unsere Finale Spielidee erläutert und die Simulation angefange zu erklären. 
+Zudem haben wir unsere Simulation fortgeführt. 
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
 
