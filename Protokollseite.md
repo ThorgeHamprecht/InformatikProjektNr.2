@@ -229,7 +229,11 @@ Unsere Ergebnisse haben bewiesen, dass die Messwerte durch diese Weise deutlich 
 Außerdem wurden die Lichtverhältnisse stetig von der Umweltbelichtung beeinflusst.
 Nun haben wir versucht, diese Beeinflussung dadurch zu minimieren, dass wir mit hellen Leuchtern die Wände stärker bestrahlen. Auch nach dieser Veränderung konnten wir deutlich positive Veränderungen feststellen.
 
-5. 
+5. Unsere nächste Frage, die wir beantworten wollten war die Frage, wie weit zwei Punkte in echte voneinander sind. Zudem wollten wir diesen ermessenen Wert dann an die im Computer anpassen. Dafür haben wir eine Variable eingefügt. Diesen Wert haben wir dann durch 145 dividiert. 
+
+6. Auch die Höhe haben anschließend gemessen und entsprechend angepasst. Dabaei haben wir zunächst eine Höhe gemessen und diese anschließend an die Y-Werte addiert. 
+
+7. Zudem haben wir herausgefunden, dass ein weiterer Fehler, der häufig aufgetreten ist daher beruht, dass beim Messen der Erbenisse die Hand von Jannik teilweise noch im Bild war. Somit wurde der erste Messwert bereits genommen, als der Ball sich noch gar nicht im Flug befunden hat. Durch ein Verschieben des Messwerts nach hinten haben wir erreicht, dass diese Fehlerquelle nicht mehr vorhanden ist. Dafür haben wir die X-Werte um 0,335 gerechnet.
 
 
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
