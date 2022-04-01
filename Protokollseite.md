@@ -16,6 +16,7 @@ Ferne ist die Messung der Ballweite auch für mögliche Wurfanalysen z.B. im sch
 Im Folgenden möchten wir zur Verdeutlichung unsere Idee einmal den Aufbau und die Vorraussetzung für eine erfolgreiche Messung der Wurfweite uns somit für ein erfolgreiches Spielen des Spieles erläutern.
 
 **Aufbau:**
+
 Bei dem Aufbau ist es wichtig, dass sich der Spieler im echten Leben vor einer weißen (oder möglichst hellen) Wand befindet. Zudem werden die Messwerte immer besser, wenn die Wand stark ausgeleuchtet ist. Somit eignet sich ein Positionieren im Außenbereich nur bedingt für eine erfolgreiche Durchführung des Spiels. Im Außenbereich ist das hauptsächliche Problem die Änderung von Lichtverhältnissen. Durch den Wechsel von Sonne und Wolken ändert sich wohlmöglich die Einstellung für eine optimale Erkennung des Balles. Aus diesem Grund empfehlen wir eine Durchführung unseres Spieles im Innenraum vor einer weißen und gut beleuchteten Wand.
 Für den genauen Aufbau ist es auch wichtig den Ball richtig zu kalibrieren und die Distanzen richtig einzustellen. 
 Dafür bitten wir unsere Anweisung zu beachten und den Aufbau exakt nach unserer Skizze durchzuführen durchzuführen.
@@ -24,25 +25,6 @@ Dafür bitten wir unsere Anweisung zu beachten und den Aufbau exakt nach unserer
 
 
 ![Aufbau des Spiels als Skizze](https://user-images.githubusercontent.com/88385954/161300352-1fe62353-c8e6-4561-8716-4473d03aaf03.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Spiel Durchführung**
-
-Für unser überlegtes Spiel
 
 
 **Ziel des Spiels und Möglichkeiten zum Benutzen unseres Projektes**
@@ -94,6 +76,17 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
     <td><a href=#achtzehn>Dienstag, 01. März</a></td>
     <td><a href=#neunzehn>Mittwoch, 02. März</a></td>
     <td><a href=#zwanzig>Dienstag, 08. März</a></td>
+  </tr>
+  <tr>
+    <td><a href=#sechzehn>Mittwoch, 09. März</a></td>
+    <td><a href=#siebzehn>Mittwoch, 15. März</a></td>
+    <td><a href=#achtzehn>Dienstag, 16. März</a></td>
+    <td><a href=#neunzehn>Mittwoch, 22. März</a></td>
+    <td><a href=#zwanzig>Dienstag, 23. März</a></td>
+  </tr>
+  <tr>
+    <td><a href=#sechzehn>Mittwoch, 29. März</a></td>
+    <td><a href=#siebzehn>Dienstag, 30. März</a></td>
   </tr>
 </table>
  
@@ -330,7 +323,7 @@ Zunächst kam uns der Name "real ball" in den Sinn. Diesen Namen haben wir aber 
 Wir wollen mit unserem Namen noch mehr die unbegrenzten Möglichkeiten unseres Spieles hervorheben.
 Deshalb haben wir uns für den Namen "infinitythrow" entschieden. Somit wird für den Nutzer bereits durch den Namen klar, das dem Spaß keine grenzen gesetzt werden und das es sich um ein Wurfspiel handelt.
 
-## Dienstag 15.03.2022
+## Dienstag 15.03.2022<a name="zweiundzwanzig"></a>
 
 Heute haben wir die Verbesserungen, die wir bei Jannik im Keller herausgefunden haben beschrieben und die positiven Effekte erläutert.
 Bei der Simulation haben wir beschrieben was wir noch verändern wollen.
@@ -339,7 +332,7 @@ Nach dem Gespräch haben wir uns mit Github beschäftigt. Zudem sind wir bei der
 
 <img width="1208" alt="Simulation vom 15 03 2022" src="https://user-images.githubusercontent.com/88385954/158412545-d569b07c-17ff-4df7-8b92-6a1fe1403950.png">
 
-## Mittwoch 16.03.2022
+## Mittwoch 16.03.2022<a name="dreiundzwanzig"></a>
 
 Heute haben wir die Kollistionserkennung in der Simulation programmiert. Somit wird nun erannt, ob der Ball das Fass trifft oder nicht. Damit sind wir in unserer Simulation einen entscheidenen Schritt weitergekommen.
 Als nächsten Schritt möchten wir das Score-System in der Simulatin erschaffen werden. 
@@ -347,14 +340,14 @@ Hierbei haben wir uns ein Puntesystem überlegt, bei dem unterschiedliche Punkte
 In dem Bereich von 0 Meter bis 2 Meter soll der Spieler bei einem Treffer einen Punkt erhalten. Bei einen Treffer im Bereich 2 bis 4 Meter soll der Spieler bei einem Treffer zwei Punkte erhalten. Bei einem Treffer im Bereich 4 Meter bis 6 Meter bekommt der Spieler drei Punkte.
 Dadurch wollen wir unser Spiel noch spannender machen und eine nachvollziebare Skarla im Bezug auf die Punktevergabe soll einen fairen Spielverlauf ermöglichen.
 
-## Dienstag 22.03.2022
+## Dienstag 22.03.2022<a name="vierundzwanzig"></a>
 
 Heute haben wir mit Ihnen über unser Projekt geredet. Dabei haben wir Ihnen erläutert wie unser Stand des Pojekts aussieht. 
 Zunächst haben wir Ihnen erläutert, wie wir nun unsere Bahnkurve berechnen. Dabei haben wir erläutert, dass wir nun ein lineares Gleichungssystem benutzen, um die Bahnkurve zu berechnen. Dieser Methode ist um einiges genauer als die vorherige Variante, wobei wir die Bahnkurve durch eine Verbindung zweier Punkte. Bei dem jetzigen Auswählen von 3 Punkten errechnet das Programm die genaue Bahnkurve. Somit konnten wir unser Ergebnis deutlich verbessern. 
 Anschließend haben wir Ihnen unsere Finale Spielidee erläutert und die Simulation angefange zu erklären. 
 Zudem haben wir unsere Simulation fortgeführt. 
 
-## Dienstag 29.03.2022
+## Dienstag 29.03.2022<a name="fünfundzwanzig"></a>
 
 Heute haben wir uns auf unser Abitur vorbereitet und nicht weiter an dem Informatik Projekt gearbeitet.
 
