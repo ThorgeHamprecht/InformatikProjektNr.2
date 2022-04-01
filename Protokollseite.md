@@ -42,12 +42,15 @@ Dafür bitten wir unsere Anweisung zu beachten und den Aufbau exakt nach unserer
 
 **Spiel Durchführung**
 
+Für unser überlegtes Spiel
 
 
 **Ziel des Spiels und Möglichkeiten zum Benutzen unseres Projektes**
 
-
-
+Mit unserem Projekt besteht zum einen selbstverständlich die Möglichkeit das Spiel nach dem beschriebenen Prinzip zu benutzen.
+Hierbei besteht beispielsweise die Möglichkeit das zwei Spieler gegeneinander Antreten. Man könnte eine Spielrunde beispielsweise so gestalten, dass jeder Spieler drei Mal wirft und die Punkte am Ende verglichen werden.
+Darüber hinaus könnte man unser gebautes Projekt beispielsweise einsetzen, um eine Distanz von einem Schlagwurfball zu messen. So könnte man zum Beispiel in einer Sporthalle, die eigentlich nicht groß genug ist, trotzdem eine Messung durchführen und die Wurfweiten von Schülern ermitteln. Vorraussetzung hierfür wäre jedoch auch ein weißer Hintergrund. 
+Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also nach eigenem Belieben.
 
 ## Inhaltsverzeichnis
 
