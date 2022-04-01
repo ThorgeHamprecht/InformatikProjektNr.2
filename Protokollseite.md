@@ -16,11 +16,24 @@ Ferne ist die Messung der Ballweite auch für mögliche Wurfanalysen z.B. im sch
 Im Folgenden möchten wir zur Verdeutlichung unsere Idee einmal den Aufbau und die Vorraussetzung für eine erfolgreiche Messung der Wurfweite uns somit für ein erfolgreiches Spielen des Spieles erläutern.
 
 **Aufbau:**
-Bei dem Aufbau ist es wichtig, dass sich der Spieler im echten Leben vor einer weißen Wand befindet. Zudem werden die Messwerte immer besser, wenn die Wand stark ausgeleuchtet ist. Somit eignet sich ein Positionieren im Außenbereich nur bedingt für eine erfolgreiche Durchführung des Spiels. Im Außenbereich ist das hauptsächliche Problem die Änderung von Lichtverhältnissen. Durch den Wechsel von Sonne und Wolken ändert sich wohlmöglich die Einstellung für eine optimale Erkennung des Balles. Aus diesem Grund empfehlen wir eine Durchführung unseres Spieles im Innenraum vor einer weißen und gut beleuchteten Wand.
+Bei dem Aufbau ist es wichtig, dass sich der Spieler im echten Leben vor einer weißen (oder möglichst hellen) Wand befindet. Zudem werden die Messwerte immer besser, wenn die Wand stark ausgeleuchtet ist. Somit eignet sich ein Positionieren im Außenbereich nur bedingt für eine erfolgreiche Durchführung des Spiels. Im Außenbereich ist das hauptsächliche Problem die Änderung von Lichtverhältnissen. Durch den Wechsel von Sonne und Wolken ändert sich wohlmöglich die Einstellung für eine optimale Erkennung des Balles. Aus diesem Grund empfehlen wir eine Durchführung unseres Spieles im Innenraum vor einer weißen und gut beleuchteten Wand.
 Für den genauen Aufbau ist es auch wichtig den Ball richtig zu kalibrieren und die Distanzen richtig einzustellen. 
-Dafür bitten wir, das folgende Bild zu beachten und den Aufbau exakt nach unseren Empfehlungen durchzuführen.
+Dafür bitten wir unsere Anweisung zu beachten und den Aufbau exakt nach unserer Skizze durchzuführen durchzuführen.
 
 **Skizze zum Aufbau**
+
+
+![Aufbau des Spiels als Skizze](https://user-images.githubusercontent.com/88385954/161300352-1fe62353-c8e6-4561-8716-4473d03aaf03.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -337,6 +350,11 @@ Heute haben wir mit Ihnen über unser Projekt geredet. Dabei haben wir Ihnen erl
 Zunächst haben wir Ihnen erläutert, wie wir nun unsere Bahnkurve berechnen. Dabei haben wir erläutert, dass wir nun ein lineares Gleichungssystem benutzen, um die Bahnkurve zu berechnen. Dieser Methode ist um einiges genauer als die vorherige Variante, wobei wir die Bahnkurve durch eine Verbindung zweier Punkte. Bei dem jetzigen Auswählen von 3 Punkten errechnet das Programm die genaue Bahnkurve. Somit konnten wir unser Ergebnis deutlich verbessern. 
 Anschließend haben wir Ihnen unsere Finale Spielidee erläutert und die Simulation angefange zu erklären. 
 Zudem haben wir unsere Simulation fortgeführt. 
+
+## Dienstag 29.03.2022
+
+Heute haben wir uns auf unser Abitur vorbereitet und nicht weiter an dem Informatik Projekt gearbeitet.
+
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
 
