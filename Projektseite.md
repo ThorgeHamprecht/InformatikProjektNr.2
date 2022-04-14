@@ -19,5 +19,7 @@ Für die Umsetzung von infinitythrow mussten wir vor allen anderen Dingen ein gr
 
 
 ## Simulation/Spiel mit pygame
+![R](https://user-images.githubusercontent.com/88385813/163342475-1fa20894-75e3-4dda-90f0-42c2d4296f9e.png)
 
+Der letzte Teil unseres Projekts sollte die Simulation 
 
