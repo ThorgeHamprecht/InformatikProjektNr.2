@@ -21,5 +21,5 @@ Für die Umsetzung von infinitythrow mussten wir vor allen anderen Dingen ein gr
 ## Simulation/Spiel mit pygame
 ![R](https://user-images.githubusercontent.com/88385813/163342475-1fa20894-75e3-4dda-90f0-42c2d4296f9e.png)
 
-Der letzte Teil unseres Projekts sollte die Simulation 
+Der letzte Teil unseres Projekts sollte die Simulation des Wurfs und das Anzeigen der Flugbahn in einem Programm werden. Dafür benötigten wir eine weitere Python-Bibliothek. Pygame ermöglicht uns das Anzeigen von einfachen 2D Grafiken und Kollisionserkennung zwischen diesen Objektenund eignet sich daher sehr gut für unsere Simulation. Des weiteren gibt es zu dieser Bibliothek unzählige Tutorials, die den Umgang mit pygame erheblich erleichtern.
 
