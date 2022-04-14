@@ -6,13 +6,15 @@ infinitythrow ist ein Augmented Reality Spiel, das einen echten Ballwurf mit dem
 Für die Umsetzung unseres Projektes haben wir Python genutzt. Wir haben uns für python entschieden, da Python sich vor allen Dingen durch seine leichte Syntax und vielseitigen Anwendungsgebiete auszeichnet. Dabei kann das Grundgerüst von Python durch viele andere Bibliotheken erweitert und angepasst werden. Da wir zu Anfang unseres projektes noch keine genaue Vorstellung von dem Endprodukt unseres Projekts hatten, stellte Python genau das richtige Grundgerüst dar, um unser Programm später nach unseren Vorstellungen zu erweitern. Des weiteren ist Python auch sehr ähnlich zu C#, eine Programmiersprache mit der wir schon einmal in der Projektfindungsphase des ersten projekts Erfahrungen gemacht hatten.
 
 ## PyCharm
-![pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others](https://user-images.githubusercontent.com/88385813/163342021-cf99b62b-3e4b-4605-8558-79bcc16d27dd.jpg)
+![pycharm-logo](https://user-images.githubusercontent.com/88385813/163342121-e0e1be82-a348-4d29-a16c-04bcb0c8c442.png)
+
 
 Für das Schreiben und Ausführen des Codes haben wir uns für für PyCharm entschieden. PyCharm ist relativ ähnlich zu Microsoft Visual Studio. Allerdings ist PyCharm für Python Entwicklung optimiert. In PyCharm kann der Code sowohl geschrieben, als auch ausgeführt werden und das Programm überprüft den Code auch auf Fehler, was das "Debugging" enorm erleichtert. PyCharm wird auch im profressionellem Bereich genutzt ist allerdings für Non-Profit-Projekte kostenlos verfügbar. 
 
 ## Erkennung der Flugkurve des Balles mit openCV
 ## OpenCV
 ![IMG_0879](https://user-images.githubusercontent.com/88385813/157444014-ec4f9bcf-7afb-4fd1-bd95-0dfce1b4254e.png)
+
 Für die Umsetzung von infinitythrow mussten wir vor allen anderen Dingen ein großes Problem lösen: Wie kann man die Position eines Balles in einem Video mithilfe von Software erkennen? In Python gibt es glücklicherweise eine Bibliothek, die sich mit genau diesem Problem beschäftigt. Die Open Source Computer Vision Bibliothek, kurz OpenCV, stellt mehr als 2.500 Algorythmen zur verfügung, mit denen Bild und Videomaterial analysiert werden kann. Dabei kann diese Bibliothek mit nur einer Zeile in jedes Pythonprojekt geladen werden. Für das "Tracken" eines Balls war für uns vor allen Dingen die Farbfilter-Funktion von OpenCV wichtig. Dabei wird ein Bild oder Video in hinsicht auf die in ihm enthaltenen Farben analysiert. Wenn der Ball also eine andere farbe als der rest des Bildes ist, kann dieser isoliert werden und damit getrackt werden.
 
 
