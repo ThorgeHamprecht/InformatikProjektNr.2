@@ -142,23 +142,32 @@ Auch wenn wir uns dazu entschieden haben zunächst Option 1 zu verwirklichen sin
 
 ## Dienstag 18.01.2022<a name="sechs"></a>
 
-Heute haben wir 
-Angefangen mit unserem P
+Heute haben wir weiter recherchiert über unsere Idee. Dabei lag der Schwerpunkt bei der Recherche auf den auftretenden physikalischen Prinzipien.
+In der zweiten Stunde haben wir probiert Teile der Recherche in tatsächlichen Code umzuwandeln. Dabei haben wir uns auf die Formel des schrägen Wurfes von LEIFI-Physik bezogen und die ersten Teile in Code umgewandelt. Nachdem dies funktioniert hat haben wir und entschlossen sicher an diesem Projekt festzuhalten. Wir sind der Meinung, dass es zwar eine große Herausforderung sein wird unsere Idee nach unseren Vorstellungen umzusetzen, jedoch denken wir, dass wir diese Herausforderung schaffen können. Somit liegt ab jetzt der volle Fokus unseres Arbeitens auf diesem Projekt und unser Ziel eine funktionierende Ballerkennung und Umwandlung in eine Simulation zu erreichen steht klar im Zentrum.
 
 ## Mittwoch 19.01.2022<a name="sieben"></a>
 
+Heute haben wir weiter daran gearbeitet die Formel vom schrägen Wurf in unser Projekt zu implementieren.
+
+HIER KURZE ERKLÄRUNG WIE WIR DAS GEMACHT HABEN MIT BILD VOM CODE
 
 ## Dienstag 25.01.2022<a name="acht"></a>
-Er war krank. Trotzdem gearbeitet.
+
+Heute waren Sie krank. Zuhause haben wir weiter an unserem Projekt gearbeitet indem wir zum einen Github aktualisiert haben und zum anderen weiter an der Formel für den schrägen Wurf gearbeitet haben. Darüber hinaus haben wir uns bereits Gedanken darüber gemacht wie unsere Simulation aussehen soll und wie wir diese Ideen umsetzen können. Wir haben jedoch noch keine Recherche darüber betrieben wie wir unsere Idee umsetzen können.
 
 ## Mittwoch 26. 01.2022<a name="neun"></a>
-Leider war Herr Buhl heute krank. Trotzdem gearbeitet.
+Heute waren Sie leider krank. Zuhause haben wir es geschafft die Formel für den schrägen Wurf zu vervollständigen. Anschließend haben wir uns überlegt wie wir die entsprechenden Messwerte nutzen können, um sie in die Formel einzufügen und somit auch die Wurfweite ausrechnen zu können. 
+Wir haben uns dabei überlegt
+
+HIER EIN BILD VOM CODE WIE WIR VORHER DIE BAHNKURVE BERECHNET HABEN. ZUDEM EINE KURZE ERKLÄRUNG WIE WIR DIE MESSDATEN AUSWERTEN UND WAS VORHER EINGESTELLT WERDEN MUSS. AM NÄCHSTEN TAG HABEN WIR JA BEREITS KALIBRIERT, DESWEGEN MUSS ALLE NOTWENDIGE HIER SCHON KLAR SEIN.
 
 ## Dienstag 01.02.2022<a name="zehn"></a>
 
 Heute haben wir angefangen unseren Ball zu Kalibrieren. Dafür sind wir in den Raum N4 gegangen und haben den Computer wie auf dem folgenden Bild zu sehen platziert.
 Die Entfernung zur Tafel haben wir mithilfe eines Maßbandes ausgemessen.
-BILD, welches wir aufgenommen haben:
+Der Aufbau in dem Raum N4 war wie folgt:
+
+HIER BILD N4
 
 Diese betrug 1,83 Meter. 
 Anschließend haben wir den Radius im Bezug auf den Ball ausgemessen und anschließend eingestellt. 
