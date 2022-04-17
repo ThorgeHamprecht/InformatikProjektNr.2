@@ -394,7 +394,7 @@ Wir sind sehr froh, dass wir unser Projekt nun abschließen konnten und alles na
 
 ## 📥Reflexion des Projekts<a name="Reflex"></a>
 
-Unser Spiel "Infinity Ball" hat uns während der gesamten Erstellungsphase sehr viel Spaß gemacht.
+Unser Spiel "Infinity Throw" hat uns während der gesamten Erstellungsphase sehr viel Spaß gemacht.
 Obwohl wir uns zu Beginn des Projektes nicht sicher waren, ob wir das Projekt schaffen war es im Nachhinein richtig sich auf dieses "Abenteuer" einzulassen. 
 Besonders gefallen hat uns bei diesem Projekt, dass wir die immer wieder praktische Versuche neben dem programmieren machen konnten. Das war auch unsere Erwartung bzw. unsere Hoffnung vor dem Projekt gewesen, da uns dieser Aspekt bei unserem letzten Projekt etwas gefehlt hat. 
 Darüber hinaus hat es Spaß gemacht immer neu die eigenen Konzepte zu überdenken und anzupassen. Wenn wir uns etwas überlegt haben, wie z.B. die Vektorrechnung, dachten wir zunächst das dies die Endlösung sein würde. Nach einiger Zeit ist uns jedoch aufgefallen, dass eine andere Methode, wie in diesem Beispiel das lineare Gleichungssystem eine viel bessere Methode wäre. Dadurch konnten wir uns immer selbst neu hinterfragen und die Probleme lösen.
