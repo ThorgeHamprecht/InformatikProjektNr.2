@@ -87,7 +87,7 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
   </tr>
   <tr>
     <td><a href=#sechzehn>Dienstag, 29. März</a></td>
-    <td><a href=#finalefertigstellungosterferien>Finale Fertigstellung in den Osterferien</a></td>
+    <td><a href=#finalefertigstellungosterferien>Finale Fertigstellung in den Osterferien </a></td>
   </tr>
 </table>
  
