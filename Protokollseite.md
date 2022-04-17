@@ -122,10 +122,6 @@ HIER EIN BILD VON DEM TOOL WO MAN DIE FARBEN EINSTELLEN KANN
 
 Anschließend haben wir mit Ihnen besprochen, wie unser Projekt genau aussehen sollte. Wir haben Ihnen erklärt, dass unsere Idee darin besteht, das getrackte Objekt auszuwerten und folglich die Richtung und Weite des Wurfes festzustellen. Anschließend wollen wir, dass der Wurf als Simulation auf den Computer übertragen wird.
 Nachdem wir Ihnen diese Gedanken geschildert haben, zeigten Sie der Klasse ein Video von "Stuff Made Here". Anschließend erklärten Sie uns, dass Ihre Bedenken bei unserer Idee seien, dass der Prozess der Umwandlung der Daten und die Simulation eventuell etwas zu einfach sei. Daraufhin erwiderten wir, dass es bestimmt Möglichkeiten gäbe, die Simulation immer weiter ansprechend zu gestalten und wir somit nicht "zu schnell" fertig werden würden.
-Unsere Skizze zu dieser Idee:
-
-HIER EINE SKIZZE DER IDEE VOM ANFANG
-
 Folglich haben Sie uns vorgeschlagen etwas zu erstellen, bei dem wir das Kamerabild auswerten und daraus etwas "cooles" machen. 
 
 ## Mittwoch 12.01.2022<a name="fünf"></a>
@@ -165,9 +161,9 @@ HIER EIN BILD VOM CODE WIE WIR VORHER DIE BAHNKURVE BERECHNET HABEN. ZUDEM EINE 
 
 Heute haben wir angefangen unseren Ball zu Kalibrieren. Dafür sind wir in den Raum N4 gegangen und haben den Computer wie auf dem folgenden Bild zu sehen platziert.
 Die Entfernung zur Tafel haben wir mithilfe eines Maßbandes ausgemessen.
-Der Aufbau in dem Raum N4 war wie folgt:
+Die Messwerte von heute:
 
-HIER BILD N4
+![IMG_1288](https://user-images.githubusercontent.com/88385954/163720208-e1baafa3-677b-49d2-9ff5-02a3dfd4f9ed.jpg)
 
 Diese betrug 1,83 Meter. 
 Anschließend haben wir den Radius im Bezug auf den Ball ausgemessen und anschließend eingestellt. 
@@ -177,12 +173,20 @@ BILD VOM CODE WO WIR DIE ENTSPRECHENDEN DINGE EINSTELLEN KÖNNEN
 
 ## Mittwoch 02.02.20222<a name="elf"></a>
 
-Heute haben wir noch weiter an unsere Kalibrierung des Balles gearbeitet. Dafür sind wir in den Raum L gegangen und haben den Computer wie folgt plaziert. 
+Heute haben wir noch weiter an unsere Kalibrierung des Balles gearbeitet. Dafür sind wir in den Raum L gegangen und haben den Computer wie am Tag zuvor plaziert. 
 Nachdem wir, wie bereits bei dem Eintrag von gestern beschrieben, die entsprechenden Werte eingetragen haben sind haben wir anschließen dier ersten realen Würfe gemacht. Dabei haben wir mit einem Messband von Ihnen die realen Werte verglichen mit den Werten die der Computer angezeigt hat, erlangt durch unsere Rechnung.
 Weil unsere Werte am anfang sehr schlecht waren haben wir versucht Dinge zu verändert. Zunächst haben wir die Position des MacBooks angepasst und versucht durch die Lichteinstellung bessere Werte zu erlangen. Leider haben sich unsere Messwerte dadurch nicht signifikant verbessert. 
 Aus diesem Grund haben wir uns darüber Gedanken gemacht, ob die Verkotrechnung durch zwei Messpunkte vielleicht die falsche Methode ist, um die Bahnkurve des Balles zu berechnen. 
-
 Folglich noch ein Video, wie unser Aufbau heute aussah. Heute lagen zwischen der tatsächlichen Wurfweite und der gemessenen Wurfweite bis zu einem Meter. Das ist selbstverständlich nicht gut und muss von uns angepasst werden:
+
+Hier einmal die Perspektive, wie wir geworfen haben:
+
+https://user-images.githubusercontent.com/88385954/163720299-b60a77db-9920-483d-8a76-aa0d23502a4a.MOV
+
+Hier einmal eine Computeraufnahme. Es zeigt sich bereits das Problem, das durch den nicht einheitlichen Hintergrund Probleme beim Tracking entstehen:
+
+HIER DAS KURZE VIDEOg
+
 
 ## Dienstag 08.02.2022<a name="zwölf"></a>
 
@@ -206,7 +210,7 @@ Dabei sind uns leider einige Fehler aufgefallen.
 DIAGRAMME HIER ICH WEIß LEIDER NICHT MEHR WELCHE FEHLER DAS WAREN VIELLEICHT WEIßT DU DAS JA:
 
 Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
-Aktuell ist das ERgebnis nämlich keinesfalls zufriedenstellend. Aus diesem Grund werden wir die erkäuterten Maßnahmen umsetzen und versuchen zu erfahren, ob unsere Messungen dadurch besser werden.
+Aktuell ist das Ergebnis nämlich keinesfalls zufriedenstellend. Aus diesem Grund werden wir die erkäuterten Maßnahmen umsetzen und versuchen zu erfahren, ob unsere Messungen dadurch besser werden.
 
 
 
@@ -222,6 +226,12 @@ Wir haben uns anschließend darüber unterhalten, was zu besseren Ergebnissen f�
 1. Die Distanz von der Kamera zu dem Hintergrund ist zu gering. Durch den Blickwinkel der Kamera verändert sich ungewollt die Geschwindigkeit, wenn der Ball an der Kamera vorbei fliegt. Die Geschwindigkeit ist genau dann am schnellsten, wenn der Ball sich direkt vor der Kamera befindet.
 2. Der Ball ist zu klein. Durch einen größeren Ball, wie z.B. einen Basketball könnten wir ein besseres Erkennen auch bei einer größeren Distanz zwischen der Kamera und dem Hintergrund erreichen.
 3. Des Weiteren könnten wir durch eine bessere Kamera ein genaueres Tracking erreichen, bei der die Bildrate höher ist als bei der Computerkamera
+
+Hier noch einige Bilder vom heutigen Tag:
+
+![IMG_1147](https://user-images.githubusercontent.com/88385954/163720531-30794bab-4e1a-4e87-be2f-33a601012719.jpg)
+
+![IMG_1289](https://user-images.githubusercontent.com/88385954/163720600-b8aa21db-a255-4dd0-a34c-46bee8e8ca13.jpg)
 
 Um diese Dinge auszuprobieren wollen wir uns am Wochenende bei Jannik treffen. Wir erhoffen uns dadurch bessere Messwerte zu erhalten.
 
