@@ -111,6 +111,7 @@ Den zweiten Teil der Stunde haben wir damit verbracht Python zu downloaden sowie
 Wir sind uns zum jetzigen Zeitpunkt noch nicht sicher, ob unsere Idee nach unseren Vorstellungen umsetzbar ist. Wir wollen uns deshalb bis mitte Januar Zeit geben und dann entscheiden, ob wir immer noch an unserer Idee festhalten wollen.
 
 ## Dienstag 21.12.2021<a name="drei"></a> 
+
 Heute haben wir mit Ihnen Secret Hitler gespielt.
 
 ## Dienstag 11.01.2021<a name="vier"></a>
@@ -185,7 +186,7 @@ https://user-images.githubusercontent.com/88385954/163720299-b60a77db-9920-483d-
 
 Hier einmal eine Computeraufnahme. Es zeigt sich bereits das Problem, das durch den nicht einheitlichen Hintergrund Probleme beim Tracking entstehen:
 
-HIER DAS KURZE VIDEOg
+
 
 
 ## Dienstag 08.02.2022<a name="zwölf"></a>
@@ -212,8 +213,7 @@ DIAGRAMME HIER ICH WEIß LEIDER NICHT MEHR WELCHE FEHLER DAS WAREN VIELLEICHT WE
 Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
 Aktuell ist das Ergebnis nämlich keinesfalls zufriedenstellend. Aus diesem Grund werden wir die erkäuterten Maßnahmen umsetzen und versuchen zu erfahren, ob unsere Messungen dadurch besser werden.
 
-
-
+HIER MP4
 
 
 ## Dienstag 15.02.2022<a name="vierzehn"></a>
@@ -252,9 +252,9 @@ Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch ei
 
 ## Dienstag 22.02.2022<a name="sechszehn"></a>
 
-Zuhause haben wir die bei Jannik zuhause einmal den Aufbau genau durchgeführt und anschließend einige Wurfversuche durchgeführt. Bei all unseren Messwerten haben wir überprüft, ob diese stimmen können, indem wir auf dem Boden ein Maßbahn hingelegt haben. Bei jedem Wurf haben wir die tatsächliche Länge des Wurfes mit dem errechneten Wert aus unserem Code verglichen. Nach einigen Würfen mit verschiedenen Längen haben wir jeweils ein Fazit gezogen und uns darüber verständigt, ob diese Veränderung färderlich für unsere Messgenauigkeit ist oder nicht. 
+Zuhause haben wir die bei Jannik zuhause einmal den Aufbau genau durchgeführt und anschließend einige Wurfversuche durchgeführt. Bei all unseren Messwerten haben wir überprüft, ob diese stimmen können, indem wir auf dem Boden ein Maßbahn hingelegt haben. Bei jedem Wurf haben wir die tatsächliche Länge des Wurfes mit dem errechneten Wert aus unserem Code verglichen. Nach einigen Würfen mit verschiedenen Längen haben wir jeweils ein Fazit gezogen und uns darüber verständigt, ob diese Veränderung förderlich für unsere Messgenauigkeit ist oder nicht. 
 Dabei sind wir systematisch die angesprochenen möglichen Fehlerquellen, welche wir bei den Messwerten in der Schule festgestellt haben, zu überprüfen und zu ändern. 
-Unser Ziel ist es auf eine Länge von 6 Metern die Länge in einer Richtigkeit von +/- 5cm errechnen zu können.
+Unser Ziel ist es, auf eine Länge von 6 Metern die Länge in einer Richtigkeit von +/- 10cm errechnen zu können.
 
 1. Unsere erste Überlegung, warum die Messwerte bislang noch nicht unseren Ansprechen entsprechen war das Anschließen einer externen Kamera an unsere Simulation.
 Zunächst haben wir ein Webcam-Programm heruntergeladen, was nötig ist, damit Python direkt auf das Kamerabild zugreifen kann.
@@ -278,21 +278,23 @@ Nun haben wir versucht, diese Beeinflussung dadurch zu minimieren, dass wir mit 
 
 7. Zudem haben wir herausgefunden, dass ein weiterer Fehler, der häufig aufgetreten ist daher beruht, dass beim Messen der Erbenisse die Hand von Jannik teilweise noch im Bild war. Somit wurde der erste Messwert bereits genommen, als der Ball sich noch gar nicht im Flug befunden hat. Durch ein Verschieben des Messwerts nach hinten haben wir erreicht, dass diese Fehlerquelle nicht mehr vorhanden ist. Dafür haben wir die X-Werte um 0,335 gerechnet.
 
+Indem wir die beschriebenen Änderungen durchgeführt haben konnten wir unsere Messergebnisse signifikant verbessern. Wir haben es dadurch geschafft, dass die Wurfweite auf 5cm genau bei jedem Wurf bestimmt werden kann. Somit konnten wir unsere Erwartungen sogar noch übertreffen und wir sind sehr zufrieden mit unserem Ergebnis.
+
+Hier ein Wurfbeispiel aus Janniks Keller:
+
+https://user-images.githubusercontent.com/88385954/163721020-5cfebd5e-55ec-46be-9d08-a8ecc294ab50.MOV
+
 
 Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation besschäftigt.
 Zudem haben wir weiter unseren Code beschrieben.
-Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere 
+Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere neuen Erkenntnisse anzupassen.
 
-**Messwerte der ersten Messung von zuhause**
+**Messwerte den Messungen von zuhause**
 
 <img width="331" alt="Bildschirmfoto 2022-02-15 um 15 28 48" src="https://user-images.githubusercontent.com/88385954/156193089-e9ef5838-9388-4806-bc43-0606b51f097d.png">
 
 
 <img width="274" alt="Bildschirmfoto 2022-02-15 um 15 31 35" src="https://user-images.githubusercontent.com/88385954/156193116-b2457152-7c92-4f7e-83f1-5b8172c559b3.png">
-
-Unsere Veränderungen
-
-
 
 
 ## Mittwoch 23.02.2022<a name="siebzehn"></a>
@@ -304,13 +306,13 @@ Wir haben das Problem gelöst, indem wir: ERKLÄRUNG FEHLT UND BILD
 
 ## Dienstag 01.03.2022<a name="achtzehn"></a>
 
-Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu setzen und die Zeit anzupassen. Darüber hinaus haben wir die eine Skalierung am unteren Rand der Simulation eingefügt. Die Meter-Anzahl wird jeweils immer durch die Farbönder
+Heute haben wir uns damit beschäftigt die Bahnkurve in den nötigen Maßstab zu setzen und die Zeit anzupassen. Darüber hinaus haben wir die eine Skalierung am unteren Rand der Simulation eingefügt. Die Meter-Anzahl wird jeweils immer durch die Farbänder hinterlegt.
 
 
 ![Notiz 01 03 2022 151827](https://user-images.githubusercontent.com/88385954/156192390-53c1c4df-41c6-46f3-aed3-2e86504cf93a.png)
 
-Zudem haben wir uns heute mit der optischen Verbesserung unserer Simulation beschäftigt. Dafür haben wir am unteren Rand der Simulation eine Skalierung eingefügt. 
-Bei dieser Skalierung haben wir jeden Meter durch eine unterschiedliche Färbung gekennzeichnet. Somit kann der Spieler schnell auf einen blick sehen, wie weit die Tonne sich ungefähr von ihm weg befindet. Zudem haben wir die Skalierung für die genaueren Maßeinheiten angepasst. Dadurch können jede 10 Zentimeter nachvollzogen werden. 
+Wir haben uns heute mit der optischen Verbesserung unserer Simulation beschäftigt. Dafür haben wir am unteren Rand der Simulation eine Skalierung eingefügt. 
+Bei dieser Skalierung haben wir jeden Meter durch eine unterschiedliche Färbung gekennzeichnet. Somit kann der Spieler schnell auf einen Blick sehen, wie weit die Tonne sich ungefähr von ihm weg befindet. Zudem haben wir die Skalierung für die genaueren Maßeinheiten angepasst. Dadurch können jede 10 Zentimeter nachvollzogen werden. 
 Als Gesamtlänge haben wir 6 Meter eingestellt, weil wir dadurch unser Spiel eher zu einem Geschicklichkeitsspiel machen und die Kraft bzw. die maximale Wurfweite nur eine untergeordnete Rolle spielt. Aus diesem Grund ist eine geringe Meteranzahl notwendig, damit jeder Spieler die entsprechende Weite erreichen kann.
 
 
@@ -318,30 +320,24 @@ Als Gesamtlänge haben wir 6 Meter eingestellt, weil wir dadurch unser Spiel ehe
 
 Zuhause wollen wir weitere Messungen über die freien Tage durchführen, damit wir die Probleme, welche bisher noch vorhanden sind weiter zu verbessern. 
 Auch die Codebeschreibung wollen wir weiter vorranbringen. 
-Außerdem wollen wir einen Ort in der Natur finden, welchen wir in bearbeiteter Form im Hintergrund unserer Simulation noch einfügen wollen. Dadurch soll das Spielen noch ansprechender gestaltet werden.
+Zudem wollen wir die Simulation noch ansprechender gestalten. 
 
 
 
 ## Mittwoch 02.03.2022<a name="neunzehn"></a>
 
-Heute haben wir versucht den Ball in unserer Simulation nach dem er die geworfene Bahnkurve nachgebildet hat zu stehen kommen.
+Heute haben wir versucht den Ball in unserer Simulation nach dem er die geworfene Bahnkurve nachgebildet hat zum Stehen zu bringen.
 Dafür haben wir:
 
 
 ERKLÄRUNG FEHLT
 
+GERNE AUCH MIT BILD
 
 
 
-Des Weiteren haben wir heute versucht die Grafik noch genauer zu gestalten. Unser Ziel ist es, das es sich bei der Simulation um eine realitätsnahe Nachbildung der 
-Wirklichkeit handelt. Dafür wollen wir versuchen eine echte Situation, z.B. ein Feld im echten Leben, wo die Tonne drauf steht nachzubilden. 
-Somit wollen wir erreichen, dass sich der Spieler fühlt als sei er während des Spiels im echten Leben. 
-Um einen geeigneten Ort im echten Leben nachbilden zu können haben wir uns gestern nach dem Unterricht auf die Suche begeben diesen Ort grafisch nachzubilden.
-Eine Fotografie von dem entsprechenden Ort:
 
-BILD FEHLT
-
-Unsere Idee ist es mit dem Programm ... umsetzen. 
+Des Weiteren haben wir heute versucht die Grafik noch genauer zu gestalten. Unser Ziel ist es, das es sich bei der Simulation um eine realitätsnahe Nachbildung der Wirklichkeit handelt. 
 
 ## Dienstag 08.02.2022<a name="zwanzig"></a>
 
@@ -355,13 +351,13 @@ Wir haben uns dazu entschlossen viele grafische Bilder, die wir während unseres
 Den zweiten Teil der Stunde haben wir uns mit eine passende Namensgebung für unser Projekt diskutiert. 
 Zunächst kam uns der Name "real ball" in den Sinn. Diesen Namen haben wir aber ebenso wie den Namen "virtual ball" verworfen. 
 Wir wollen mit unserem Namen noch mehr die unbegrenzten Möglichkeiten unseres Spieles hervorheben.
-Deshalb haben wir uns für den Namen "infinitythrow" entschieden. Somit wird für den Nutzer bereits durch den Namen klar, das dem Spaß keine grenzen gesetzt werden und das es sich um ein Wurfspiel handelt.
+Deshalb haben wir uns für den Namen "infinitythrow" entschieden. Somit wird für den Nutzer bereits durch den Namen klar, das dem Spaß keine Grenzen gesetzt werden und das es sich um ein Wurfspiel handelt.
 
 ## Dienstag 15.03.2022<a name="zweiundzwanzig"></a>
 
 Heute haben wir die Verbesserungen, die wir bei Jannik im Keller herausgefunden haben beschrieben und die positiven Effekte erläutert.
 Bei der Simulation haben wir beschrieben was wir noch verändern wollen.
-Zudem möchten wir versuchen die Messunsicherheiten, welche mit Veränderung der Tiefe auftreten, zu minimieren. Dafür wollen wir uns noch einmal bei Jannik im Keller treffen, wo wir auch das gesamte Projekt Filmerisch aufzeichnen wollen, damit die Funktionsweise nachvollziebar ist.
+Zudem möchten wir versuchen die Messunsicherheiten, welche mit Veränderung der Tiefe auftreten, zu minimieren. Dafür wollen wir uns noch einmal bei Jannik im Keller treffen, wo wir auch das gesamte Projekt filmerisch aufzeichnen wollen, damit die Funktionsweise nachvollziebar ist.
 Nach dem Gespräch haben wir uns mit Github beschäftigt. Zudem sind wir bei der Simulation weitergekommen, indem nun der Ball in dem Fass landet.
 
 <img width="1208" alt="Simulation vom 15 03 2022" src="https://user-images.githubusercontent.com/88385954/158412545-d569b07c-17ff-4df7-8b92-6a1fe1403950.png">
@@ -372,7 +368,9 @@ Heute haben wir die Kollistionserkennung in der Simulation programmiert. Somit w
 Als nächsten Schritt möchten wir das Score-System in der Simulatin erschaffen werden. 
 Hierbei haben wir uns ein Puntesystem überlegt, bei dem unterschiedliche Punkte für die verschiedenen Schwierigkeitsstufen der Würde vergeben werden.
 In dem Bereich von 0 Meter bis 2 Meter soll der Spieler bei einem Treffer einen Punkt erhalten. Bei einen Treffer im Bereich 2 bis 4 Meter soll der Spieler bei einem Treffer zwei Punkte erhalten. Bei einem Treffer im Bereich 4 Meter bis 6 Meter bekommt der Spieler drei Punkte.
-Dadurch wollen wir unser Spiel noch spannender machen und eine nachvollziebare Skarla im Bezug auf die Punktevergabe soll einen fairen Spielverlauf ermöglichen.
+Dadurch wollen wir unser Spiel noch spannender machen.
+
+HIER EINMAL EIN BILD VON DEM SCORE. ICH GLAUBE DU HAST DAS MIT 4-6 METER UND SO NICHT GEMACHT. DANN FÜGE EINFACH KÜNSTLICH MIT 3 PUNKTEN IN DER SKALA ODER SO EIN
 
 ## Dienstag 22.03.2022<a name="vierundzwanzig"></a>
 
@@ -385,16 +383,24 @@ Zudem haben wir unsere Simulation fortgeführt.
 
 Heute haben wir uns auf unser Abitur vorbereitet und nicht weiter an dem Informatik Projekt gearbeitet.
 
+**Finale Arbeit Zuhause**
+
+In den Osterferien haben wir unser Projekt beendet. Wir haben uns bei Jannik getroffen und die entsprechenden Videos aufgenommen. Den entstandenen Film haben wir Ihnen oben eingefügt.
+Bei unserem Projekt haben wir alle kleinen Fehler noch behoben und Github beendet.
+Zudem haben wir noch Ihre Anregung umgesetzt, die Sie uns gegeben haben während wir mit Ihnen gesprochen haben. Dafür haben wir den Laptop an den Beamer in Janniks Keller angeschlossen und die Simulation geöffnet. Wie in dem Video zu erkennen braucht der Computer nur eine ganz kurze Zeit bis die tatsächliche Simulation an der Wand startet. Somit beginnt die Simulation bereits wenn der Ball sich noch in der Luft befindet.
+Wir sind sehr froh, dass wir unser Projekt nun abschließen konnten und alles nach unseren Vorstellungen funktioniert.
 
 ## 🔧Arbeitsmethoden<a name="Methoden"></a>
 
 ## 📥Reflexion des Projekts<a name="Reflex"></a>
+
 Unser Spiel "Infinity Ball" hat uns während der gesamten Erstellungsphase sehr viel Spaß gemacht.
-
-
-
-
-
+Obwohl wir uns zu Beginn des Projektes nicht sicher waren, ob wir das Projekt schaffen war es im Nachhinein richtig sich auf dieses "Abenteuer" einzulassen. 
+Besonders gefallen hat uns bei diesem Projekt, dass wir die immer wieder praktische Versuche neben dem programmieren machen konnten. Das war auch unsere Erwartung bzw. unsere Hoffnung vor dem Projekt gewesen, da uns dieser Aspekt bei unserem letzten Projekt etwas gefehlt hat. 
+Darüber hinaus hat es Spaß gemacht immer neu die eigenen Konzepte zu überdenken und anzupassen. Wenn wir uns etwas überlegt haben, wie z.B. die Vektorrechnung, dachten wir zunächst das dies die Endlösung sein würde. Nach einiger Zeit ist uns jedoch aufgefallen, dass eine andere Methode, wie in diesem Beispiel das lineare Gleichungssystem eine viel bessere Methode wäre. Dadurch konnten wir uns immer selbst neu hinterfragen und die Probleme lösen.
+Zudem hat uns gefallen, dass wir fast alles ohne Hilfe von außen geschafft haben. Wir konnten in vielen Punkten unser theoretisches Wissen aus der Mathemathik und Phyik umsetzen. Es hat Spaß gemacht die praktische Anwendung von verschiedenen Formeln und Rechenoperationen kennenzulernen und diese folglich noch in Code umzuwandeln.
+Das einzige was uns etwas gestört hat war die geringe Zeit. Wir haben bei unserem Projekt bis auf Github in unserem Wissen von vorne gestartet, da wir für uns vorher unbekannte Programme verwendet haben. Wir hätten am Ende daher noch etwas mehr Zeit gerne gehabt um vor allem die Simulation grafisch noch ansprechender zu gestalten.
+Insgesamt hat uns das Projekt jedoch großen Spaß gemacht und wir sind sehr zufrieden mit unsererm Ergebnis, da wir aller wesentlichen Probleme beseitigen konnten und unsere selbstgesteckten Ziele erreichen konnten.
 
 
 ## ℹ️Quellen<a name="Quellen"></a>
