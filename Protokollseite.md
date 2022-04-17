@@ -6,18 +6,19 @@ Unser zweites Projekt im Informatikkurs der 12. Klasse.
 **Das Spielkonzept - Grundlagen:**
 
 Unsere Idee ist es ein Spiel zu entwickeln, welches die reale Welt mit der virtuellen Welt verbindet.
-Der Spieler steht im echten Leben vor einer Linie und hält einen hautfarbenen Ball in der Hand. Auf dem Computer sieht er eine Spielfigur, welche eben die selbe Ausgangsposition hat. Der Unterschied zwischen dem "echten" Leben und dem Computer ist jedoch, dass auf dem Computer eine Tonne zu sehen ist, welche vor der Spielfigur zu sehen ist. Darüber befindet sich eine Anzeige welche eine Entfernung zwischen der Spielfigur und der Tonne angibt. 
-Der Spieler im "echten" Leben muss nun versuchen den Ball genau so weit zu werfen, wie die Entfernung auf dem Bildschirm angibt. 
+Der Spieler steht im echten Leben vor einer Linie und hält einen hautfarbenen Ball in der Hand. Auf dem Computer sieht man eine Skala, welche die Meter 1-6 anzeigt. Der Unterschied zwischen dem "echten" Leben und dem Computer ist jedoch, dass auf dem Computer eine Tonne zu sehen ist.  
+Darüber befindet sich eine Anzeige welche eine Entfernung zwischen der Spielfigur und der Tonne angibt. 
+Der Spieler im "echten" Leben muss nun versuchen den Ball genau so weit zu werfen, wie die Entfernung auf dem Bildschirm es angibt. 
 Nachdem er den Ball geworden hat rechnet der Computer die Distanz seines Wurfes aus. Die Flugbahn wird folglich auf die Simulation im Bildschirm übertragen und der Spieler kann verfolgen, ob er den Ball richtig weit geworden hat.
 Es lassen sich zudem am Computer verschiedene Distanzen für die Tonne einstellen, um den Schwierigkeitsgrad zu verändern. Wenn man die Tonne weiter weg plaziert, so ist es für den Spieler schwieriger den Ball genau in der richtigen Distanz zu werfen. Ist die Tonne näher an dem Spieler dran, dann ist es leichter die richtige Distanz zu werfen.
-Wir wollen mit unserem Spiel etwas entwerfen, was die Kombination zwischen virtueller Welt und realer Welt beinhaltet.
-Ferne ist die Messung der Ballweite auch für mögliche Wurfanalysen z.B. im schulischen Sportunterricht möglich einzusetzen.
+Wir wollten mit unserem Spiel etwas entwerfen, was die Kombination zwischen virtueller Welt und realer Welt beinhaltet.
+Ferne ist die reine Messung der Ballweite ohne gesondertes Zielen auf eine Tonne auch für mögliche Wurfanalysen z.B. im schulischen Sportunterricht möglich einzusetzen.
 
 Im Folgenden möchten wir zur Verdeutlichung unsere Idee einmal den Aufbau und die Vorraussetzung für eine erfolgreiche Messung der Wurfweite uns somit für ein erfolgreiches Spielen des Spieles erläutern.
 
 **Aufbau:**
 
-Bei dem Aufbau ist es wichtig, dass sich der Spieler im echten Leben vor einer weißen (oder möglichst hellen) Wand befindet. Zudem werden die Messwerte immer besser, wenn die Wand stark ausgeleuchtet ist. Somit eignet sich ein Positionieren im Außenbereich nur bedingt für eine erfolgreiche Durchführung des Spiels. Im Außenbereich ist das hauptsächliche Problem die Änderung von Lichtverhältnissen. Durch den Wechsel von Sonne und Wolken ändert sich wohlmöglich die Einstellung für eine optimale Erkennung des Balles. Aus diesem Grund empfehlen wir eine Durchführung unseres Spieles im Innenraum vor einer weißen und gut beleuchteten Wand.
+Bei dem Aufbau ist es wichtig, dass sich der Spieler im echten Leben vor einer weißen (oder möglichst hellen) Wand befindet. Zudem werden die Messwerte immer besser, wenn die Wand stark ausgeleuchtet ist. Somit eignet sich ein Positionieren im Außenbereich nur bedingt für eine erfolgreiche Durchführung des Spiels. Im Außenbereich ist das hauptsächliche Problem die Änderung von Lichtverhältnissen. Sind die Messerte schon beim erfassen leicht falsch, dann zieht sich dieser Messfehler durch die gesamte Rechnung und folglich ist auch die angezeigte Wurfweite nicht die richitge. Durch den Wechsel von Sonne und Wolken ändert sich wohlmöglich die Einstellung für eine optimale Erkennung des Balles. Aus diesem Grund empfehlen wir eine Durchführung unseres Spieles im Innenraum vor einer weißen und gut beleuchteten Wand.
 Für den genauen Aufbau ist es auch wichtig den Ball richtig zu kalibrieren und die Distanzen richtig einzustellen. 
 Dafür bitten wir unsere Anweisung zu beachten und den Aufbau exakt nach unserer Skizze durchzuführen durchzuführen.
 
@@ -29,10 +30,10 @@ Dafür bitten wir unsere Anweisung zu beachten und den Aufbau exakt nach unserer
 
 **Ziel des Spiels und Möglichkeiten zum Benutzen unseres Projektes**
 
-Mit unserem Projekt besteht zum einen selbstverständlich die Möglichkeit das Spiel nach dem beschriebenen Prinzip zu benutzen.
+Mit unserem Projekt besteht zum einen selbstverständlich die Möglichkeit das Spiel nach dem beschriebenen Spielprinzip zu benutzen.
 Hierbei besteht beispielsweise die Möglichkeit das zwei Spieler gegeneinander Antreten. Man könnte eine Spielrunde beispielsweise so gestalten, dass jeder Spieler drei Mal wirft und die Punkte am Ende verglichen werden.
-Darüber hinaus könnte man unser gebautes Projekt beispielsweise einsetzen, um eine Distanz von einem Schlagwurfball zu messen. So könnte man zum Beispiel in einer Sporthalle, die eigentlich nicht groß genug ist, trotzdem eine Messung durchführen und die Wurfweiten von Schülern ermitteln. Vorraussetzung hierfür wäre jedoch auch ein weißer Hintergrund. 
-Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also nach eigenem Belieben.
+Darüber hinaus könnte man unser gebautes Projekt beispielsweise einsetzen, um eine Distanz von einem Schlagwurfball zu messen. So könnte man zum Beispiel in einer Sporthalle, die eigentlich nicht groß genug ist, trotzdem eine Messung durchführen und die Wurfweiten von Schülern ermitteln. Vorraussetzung hierfür wäre jedoch auch hier ein weißer, gut beleuchteter Hintergrund. 
+Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also nach eigenem Belieben - dabei sind der Kreativität keine Grenzen gesetzt.
 
 ## Inhaltsverzeichnis
 
@@ -103,8 +104,10 @@ Zudem könnten wir von der verbesserten Performance profitieren, welche Unity au
 
 ## Mittwoch 15.12.2021<a name="zwei"></a>
 
-Heute haben wir Internetrecherche bezüglich des neuen Projekts betrieben. Dazu haben wir uns zunächst damit beschäftigt mit welchem Programm wir unser Projekt durchführen wollen. Wir sind zu dem entschluss gekommen, dass sich Python gut eignen würde. Bei unserer Recherche haben wir uns überdies bereits damit beschäftigt wie wir das Objekt bzw. den Ball tracken wollen. Dabei sind wir auf ein sehr aufschlussreiches Tool zum Tracken des Balles gestoßen. Da der Code dafür in Python war haben wir uns dazu entschlossen, auch unser Projekt in Python zu machen.
-Den zweiten Teil der Stunde haben wir damit verbracht Pytho zu downloaden sowie das Kameratool zu implementieren. 
+Heute haben wir Internetrecherche bezüglich des neuen Projekts betrieben. Nach einem intensiven Unterhalten sowohl im Untericht als auch außerschulisch ist uns eine Idee gekommen ein Spiel zu entwerfen, bei dem wir die reale Welt mit der virtuellen Welt verbinden wollen. Die Grundidee ist einen Ball zu werfen und durch genaue Erkennung und Ausrechnung der entsprechenden Werte eine exakte Flugweite ermitteln zu können. Zudem ist uns die Idee gekommen diese Grundidee in Form eines Spiels umzusetzen. Genaueres haben wir uns hierzu jedoch noch nicht überlegt.
+Um zu prüfen, ob diese Idee überhaupt umsetzbar wäre, haben wir angefangen im Internet zu recherchieren welche Möglichkeiten der Umsetzung sich für uns ergeben würden.
+Dabei haben wir uns zunächst damit beschäftigt mit welchem Programm wir unser Projekt durchführen wollen. Wir sind zu dem Entschluss gekommen, dass sich Python gut eignen würde. Bei unserer Recherche haben wir uns überdies bereits damit beschäftigt wie wir das Objekt bzw. den Ball tracken wollen. Dabei sind wir auf ein sehr aufschlussreiches Tool zum Tracken des Balles gestoßen. Da der Code dafür in Python war haben wir uns dazu entschlossen, auch unser Projekt in Python zu machen.
+Den zweiten Teil der Stunde haben wir damit verbracht Python zu downloaden sowie das Kameratool zu implementieren. 
 Wir sind uns zum jetzigen Zeitpunkt noch nicht sicher, ob unsere Idee nach unseren Vorstellungen umsetzbar ist. Wir wollen uns deshalb bis mitte Januar Zeit geben und dann entscheiden, ob wir immer noch an unserer Idee festhalten wollen.
 
 ## Dienstag 21.12.2021<a name="drei"></a> 
@@ -112,30 +115,34 @@ Heute haben wir mit Ihnen Secret Hitler gespielt.
 
 ## Dienstag 11.01.2021<a name="vier"></a>
 
-Wir haben Ihnen unsere Projektidee vorgestellt. Dabei haben wir ihnen erzählt, dass wir planen einen Ball im "echten" Leben zu werfen und mit einer Kamera zu tracken. Das entsprechende Tool, welches wir im Internet gefunden haben, haben wir ihnen vorgestellt. Dabei ist das Tool vor allem deshalb wichtig, weil es Objekte erkennen kann. Mit einer roten Kappe von einem Klebestift haben wir Ihnen das Tool, welches wir mit Phython geöffnet haben, vorgestellt und demonstriert wie unsere Idee konkret umgesetzt werden soll. Von Zuhause haben wir einen Tennisball mitgebracht. Während wir Ihnen unsere Idee vorgestellt haben, versuchten wir gemeinsam den "Filter", welcher das Objekt tracken soll auf den Tennisball zu übertragen. Hierbei haben wir festgestellt, dass es einer sehr genauen Anpassung bedarf, damit auschließlich das Objekt und nicht auch noch andere Dinge im Blickwinkel der Kamera als Objekt erkannt werden.
+Wir haben Ihnen unsere Projektidee vorgestellt. Dabei haben wir Ihnen erzählt, dass wir planen einen Ball im "echten" Leben zu werfen und mit einer Kamera zu tracken. Das entsprechende Tool, welches wir im Internet gefunden haben, haben wir Ihnen vorgestellt. Dabei ist das Tool vor allem deshalb wichtig, weil es Objekte erkennen kann. Mit einer roten Kappe von einem Klebestift haben wir Ihnen das Tool, welches wir mit Phython geöffnet haben, vorgestellt und demonstriert wie unsere Idee konkret umgesetzt werden soll. Von Zuhause haben wir einen Tennisball mitgebracht. Während wir Ihnen unsere Idee vorgestellt haben, versuchten wir gemeinsam den "Filter", welcher das Objekt tracken soll auf den Tennisball zu übertragen. Hierbei haben wir festgestellt, dass es einer sehr genauen Anpassung bedarf, damit auschließlich das Objekt und nicht auch noch andere Dinge im Blickwinkel der Kamera als Objekt erkannt werden.
 Dazu haben wir folgendes Tool verwendet:
 
+HIER EIN BILD VON DEM TOOL WO MAN DIE FARBEN EINSTELLEN KANN
 
 Anschließend haben wir mit Ihnen besprochen, wie unser Projekt genau aussehen sollte. Wir haben Ihnen erklärt, dass unsere Idee darin besteht, das getrackte Objekt auszuwerten und folglich die Richtung und Weite des Wurfes festzustellen. Anschließend wollen wir, dass der Wurf als Simulation auf den Computer übertragen wird.
-Nachdem wir Ihnen diese Gedanken geschildert haben zeigten Sie der Klasse ein Video von "Stuff Made Here". Anschließend erklärten Sie uns, dass Ihre Bedenken bei unserer Idee seien, dass der Prozess der Umwandlung der Daten und die Simulation eventuell etwas zu einfach sei. Daraufhin erwiderten wir, dass es bestimmt Möglichkeiten gäbe, die Simulation immer weiter ansprechend zu gestalten und wir somit nicht "zu schnell" fertig werden würden.
+Nachdem wir Ihnen diese Gedanken geschildert haben, zeigten Sie der Klasse ein Video von "Stuff Made Here". Anschließend erklärten Sie uns, dass Ihre Bedenken bei unserer Idee seien, dass der Prozess der Umwandlung der Daten und die Simulation eventuell etwas zu einfach sei. Daraufhin erwiderten wir, dass es bestimmt Möglichkeiten gäbe, die Simulation immer weiter ansprechend zu gestalten und wir somit nicht "zu schnell" fertig werden würden.
 Unsere Skizze zu dieser Idee:
 
-Folglich haben sie uns vorgeschlagen etwas zu erstellen, bei dem wir das Kamerabild auswerten und daraus etwas "cooles" machen. 
+HIER EINE SKIZZE DER IDEE VOM ANFANG
+
+Folglich haben Sie uns vorgeschlagen etwas zu erstellen, bei dem wir das Kamerabild auswerten und daraus etwas "cooles" machen. 
 
 ## Mittwoch 12.01.2022<a name="fünf"></a>
 
-Heute haben wir an unserem Github gearbeitet und unsere Ideen vom letzen Eintrag in Skizzen umgewandelt. Dabei haben wir weiter über unsere Ideen gesprochen und abgewägt, welche Idee wir umsetzen wollen. Aktuell gibt es für uns vor allem zwei Optionen. 
-1. Option: Tracken des Objekt und daraus etwas cooles machen
+Heute haben wir an unserem Github gearbeitet und unsere Ideen vom letzen Eintrag in Skizzen umgewandelt. Dabei haben wir weiter über unsere Ideen gesprochen und abgewägt, welche Idee wir umsetzen wollen. Aktuell gibt es für uns noch zwei Optionen. 
+
+1. Option: Tracken des Objekt und daraus etwas cooles machen (diese Idee wolllen wir noch eine Woche probieren und dann entscheiden)
 
 <img width="677" alt="Anwendung für OpenCV" src="https://user-images.githubusercontent.com/88385813/149953739-93029453-4240-44f8-9405-73c55f04367d.png">
 
 2. Unity: Wir erstellen ein dreidimensionales Spiel mit Unity
 
-Aktuell sind wir uns noch nicht sicher, welche dieser Optionen wir umsetzen wollen. Auf der einen Seite hätten wir Lust etwas komplett neues zu machen.
-Bei Unity sind wir uns sicher, dass wir zu einen guten Ergebnis kommen würden.
+Auch wenn wir uns dazu entschieden haben zunächst Option 1 zu verwirklichen sind bleibt uns Option 2 erhalten, falls wir in einer Woche zu dem Ergebnis kommen sollten, dass uns das neue Projekt zu anspruchsvoll erscheint.
 
 ## Dienstag 18.01.2022<a name="sechs"></a>
 
+Heute haben wir 
 Angefangen mit unserem P
 
 ## Mittwoch 19.01.2022<a name="sieben"></a>
