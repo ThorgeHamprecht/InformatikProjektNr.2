@@ -173,18 +173,24 @@ Diese betrug 1,83 Meter.
 Anschließend haben wir den Radius im Bezug auf den Ball ausgemessen und anschließend eingestellt. 
 Des weiteren haben wir die Tafel ausgemessen. Dabei sind wir zu dem Ergebnis gekommen, dass die Breite der Tafel 1,94 Meter beträgt.
 
+BILD VOM CODE WO WIR DIE ENTSPRECHENDEN DINGE EINSTELLEN KÖNNEN
+
 ## Mittwoch 02.02.20222<a name="elf"></a>
 
 Heute haben wir noch weiter an unsere Kalibrierung des Balles gearbeitet. Dafür sind wir in den Raum L gegangen und haben den Computer wie folgt plaziert. 
-Zu
+Nachdem wir, wie bereits bei dem Eintrag von gestern beschrieben, die entsprechenden Werte eingetragen haben sind haben wir anschließen dier ersten realen Würfe gemacht. Dabei haben wir mit einem Messband von Ihnen die realen Werte verglichen mit den Werten die der Computer angezeigt hat, erlangt durch unsere Rechnung.
+Weil unsere Werte am anfang sehr schlecht waren haben wir versucht Dinge zu verändert. Zunächst haben wir die Position des MacBooks angepasst und versucht durch die Lichteinstellung bessere Werte zu erlangen. Leider haben sich unsere Messwerte dadurch nicht signifikant verbessert. 
+Aus diesem Grund haben wir uns darüber Gedanken gemacht, ob die Verkotrechnung durch zwei Messpunkte vielleicht die falsche Methode ist, um die Bahnkurve des Balles zu berechnen. 
+
+Folglich noch ein Video, wie unser Aufbau heute aussah. Heute lagen zwischen der tatsächlichen Wurfweite und der gemessenen Wurfweite bis zu einem Meter. Das ist selbstverständlich nicht gut und muss von uns angepasst werden:
 
 ## Dienstag 08.02.2022<a name="zwölf"></a>
 
-Heute haben wir uns damit beschäftigt wie wir die Vektorrechnung durch zwei Messpunkte, um die Bahnkurve des Balles zu berechnen ersetzen können. Stattdessen wollen wir versuchen durch verschiedene, mehrere Messpunkte ein Lineares Gleichungssystem zu erstellen und die Polynomgleichung zweiten Gerades zu errechnen. 
+Heute haben wir uns damit beschäftigt wie wir die Vektorrechnung durch zwei Messpunkte, um die Bahnkurve des Balles zu berechnen ersetzen können. Stattdessen wollen wir versuchen durch verschiedene, mehrere Messpunkte ein lineares Gleichungssystem zu erstellen und die Polynomgleichung zweiten Gerades zu errechnen. Diese Methode ist uns bereits aus dem mathematischen Teilgebiet Analysis bekannt. Dementsprechend hat sich diese Methode angeboten auszuprobieren.
 Zunächst haben wir die Funktion dritten Gerades bei Geogebra eingegeben.
-Anschließend haben wir aus der Funktion drei Werte abgelesen und anschließend bei Notability ein lineares Gleichungssystem erstellt. Folglich haben wir die drei Unbekannte a,b und c errechnet.
-Bei einem Vergleich mit der Ursprungsfunktion konnten wir feststellen, dass sich die Funktion stark ähnelt.
-
+Anschließend haben wir aus der Funktion drei Werte abgelesen und die Werte bei Notability ein lineares Gleichungssystem erstellt. Folglich haben wir die drei Unbekannte a,b und c errechnet.
+Bei einem Vergleich mit der Ursprungsfunktion konnten wir feststellen, dass sich die Funktion ähnelt.
+Dennoch sind wir der Meinung, dass diese Methode im allgemeinen genauer ist. 
 
 
 ![Errechnung der Bahnkurve des Wurfes](https://user-images.githubusercontent.com/88385954/156192539-432400b5-0a01-4575-9f80-7e04da871cd6.png)
@@ -196,9 +202,11 @@ Bei einem Vergleich mit der Ursprungsfunktion konnten wir feststellen, dass sich
 
 Heute haben wir die gestern ausprobierte Methode getestet.
 Dabei sind uns leider einige Fehler aufgefallen.
-DIAGRAMME HIER:
+
+DIAGRAMME HIER ICH WEIß LEIDER NICHT MEHR WELCHE FEHLER DAS WAREN VIELLEICHT WEIßT DU DAS JA:
 
 Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
+Aktuell ist das ERgebnis nämlich keinesfalls zufriedenstellend. Aus diesem Grund werden wir die erkäuterten Maßnahmen umsetzen und versuchen zu erfahren, ob unsere Messungen dadurch besser werden.
 
 
 
@@ -208,7 +216,7 @@ Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit
 
 Den heutigen Tag haben wir uns mit einer praktischen Andwendung beschäftigt. 
 Dazu sind wir in unseren Klassenraum N4 gegangen. In der letzen Woche haben wir beim Ausprobieren festgestellt, dass die Messwerte nicht gut waren. Als eine mögliche Ursache konnten wir die Ähnlichkeit der Wandfarbe mit dem Tennisball identifizieren. Aus diesem Grund haben wir heute zwei weiße Bettlaken mitgenommen, um die Tafel in N4 sowie den Teil der Wand, welcher auf unserem Bild zu sehen ist damit abzuhängen. Folglich war unsere Arbeit zu Beginn der Stunde vor allem dadurch gekennzeichnet, dass wir versucht haben die Bettlaken so aufzuhängen, dass die Wand nicht mehr zu sehen ist. Nachdem wir das geschafft haben konnten wir durch einen Probeversuch einer Messung ohne den Ball im Bild überprüfen, ob noch etwas im Bild getracket wird. Wir konnten feststellen, dass dies nicht der Fall war, woraufhin wir mit den eigentlichen Messungen begonnen haben. Wir haben zudem das Maßband auf dem Boden plaziert, um die Messergebnisse überprüfen zu können.
-Danach haben wir unseren ersten Wurf gemacht. Wir haben festgestellt, dass der Wurf in der Realität 1,9 Meter lang war. Nach unserern Berechnungen sind wir bei dem gleichen Wurf jedoch auf eine Weite von 2,8 Meter gekommen. Aus diesem Grund haben wir uns anschließend damit beschäftigt die Berechnungen zu verbessern. Zunächst haben wir eine Messung gestartet, bei der wir den Tennisball an den linken Bildrand gehalten haben, von wo auch in der Realität gemessen wird. Von Relevanz war bei dieser Messung nur die X-Koordinate. Wir haben einen Wert von X=0,0044 bekommen. Anschließend haben wir eine neue Messung durchgeführt, bei der wir den Ball über die 1 Meter Marke des Maßbands gehalten haben. Hier hat uns der Computer einen Messwert von 1,35 gegeben. Somit sind wir zu dem Entschluss gekommen, dass wir immer den zweiten Messwert durch 1,35 geteilt haben. 
+Danach haben wir unseren ersten Wurf gemacht. Wir haben festgestellt, dass der Wurf in der Realität 1,9 Meter lang war. Nach unserern Berechnungen sind wir bei dem gleichen Wurf jedoch auf eine Weite von 2,8 Meter gekommen. Aus diesem Grund haben wir uns anschließend damit beschäftigt die Berechnungen zu verbessern. Zunächst haben wir eine Messung gestartet, bei der wir den Tennisball an den linken Bildrand gehalten haben, von wo auch in der Realität gemessen wird. Von Relevanz war bei dieser Messung nur die X-Koordinate. Wir haben einen Wert von X=0,0044 bekommen. Anschließend haben wir eine neue Messung durchgeführt, bei der wir den Ball über die 1 Meter Marke des Maßbands gehalten haben. Hier hat uns der Computer einen Messwert von 1,35 gegeben. Somit sind wir zu dem Entschluss gekommen, dass wir immer den zweiten Messwert durch 1,35 Meter teilen müssen. 
 Nachdem wir dann einen weiteren Wurf durchgeführt haben mussten wir feststellen, dass unsere Ergebnisse immer noch nicht gut genug der Realität entsprechen.
 Wir haben uns anschließend darüber unterhalten, was zu besseren Ergebnissen führen könnte. 
 1. Die Distanz von der Kamera zu dem Hintergrund ist zu gering. Durch den Blickwinkel der Kamera verändert sich ungewollt die Geschwindigkeit, wenn der Ball an der Kamera vorbei fliegt. Die Geschwindigkeit ist genau dann am schnellsten, wenn der Ball sich direkt vor der Kamera befindet.
@@ -226,9 +234,9 @@ Um diese Dinge auszuprobieren wollen wir uns am Wochenende bei Jannik treffen. W
 Heute haben wir uns mit den Grundlagen der Simulation beschäftigt. Unserer Grundidee ist, dass das die Geworfenen Bälle anschließend in einer Spielform in einer Simulation umgesetzt werden sollen. Aus diesem Grund haben wir uns heute zunächst damit beschäftigt, zu recherchieren, wie wir die Flugbahn des Balles in eine Simulation umwandeln wollen. Dafür haben wir erstmal im Team darüber gesprochen, wie die Simulation bzw. die Spielidee aussehen soll. 
 
 Unser Ziel für die Simulation soll wie folgt aussehen:
-Unsere Idee ist, dass der Spieler im echten Leben einen Ball werfen muss. Wie weit er diesen Ball werfen muss ist abhängig von der Distanz der Spielerfigur von dem Zielobjekt in der Simulation. Dem Spieler soll dann die Distanz angegeben werden woraufhin er versucht den Ball genau so weit zu werfen. Er kann den Wurf durch die Simulation in einem kleinen Raum durchführen, da nur ein geringer Bildausschnitt dafür benötigt wird. Nach seinem Wurf wird die Flugkurve des Balles in die Simulation übertragen und der Spieler kann sein Ergebnis betrachten. Anschließend sollen Punkte vergeben werden.
+Unsere Idee ist, dass der Spieler im echten Leben einen Ball werfen muss. Wie weit er diesen Ball werfen muss ist abhängig von der Distanz der des Zielobjekt in der Simulation. Dem Spieler soll dann die Distanz angegeben werden woraufhin er versucht den Ball genau so weit zu werfen. Er kann den Wurf durch die Simulation in einem kleinen Raum durchführen, da nur ein geringer Bildausschnitt dafür benötigt wird. Nach seinem Wurf wird die Flugkurve des Balles in die Simulation übertragen und der Spieler kann sein Ergebnis betrachten. Anschließend sollen Punkte vergeben werden.
 
-Dementsprechend mussten wir erst einmal Internetrecherche betreiben, um zu verstehen, wie wir die Simulation programmieren müssen. Die weitere Optimierung des Balltrackings haben wir auf Samstag verschoben, da wir in der Schule zu dem entschluss gekommen sind, dass wir hier nicht weiter daran arbeiten wollen, da uns keine optimale weiße Wand zur Verfügung steht.
+Dementsprechend mussten wir erst einmal Internetrecherche betreiben, um zu verstehen, wie wir die Simulation programmieren müssen. Die weitere Optimierung des Balltrackings haben wir auf Samstag verschoben, da wir in der Schule zu dem Entschluss gekommen sind, dass wir hier nicht weiter daran arbeiten wollen, da uns keine optimale weiße Wand zur Verfügung steht.
 Zuhause wollen wir zudem etwas an unserem Github arbeiten, weil wir hier noch einige Bilder eingügen müssen. Außerdem wollen wir mit der Codebeschreibung anfangen.
 
 
