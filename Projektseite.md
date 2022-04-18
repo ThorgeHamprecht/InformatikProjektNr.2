@@ -281,3 +281,13 @@ Außerdem wird die Bewegung des Balls eingefroren, sobald er den Boden berührt,
 
 ### Treffer mit dem Fass registrieren
 ------------------
+Nun wo die Simulation die Flugkurve des Balles richtig darstellt muss nur noch das Fass in das der Ball geworfen werden soll eingefügt werden. Dieses wird mit einer Zufallig generierten x-Position platziert. Die Entfernung zum Fass wird vorher angezeigt und der Spieler kann danach versuchen diese Entfernung zu erreichen und damit das Fass zu treffen.
+```python
+# Fass Anzeigen
+		screen.blit(fassImage,(posFass, zufallX))  # x-Koordinate darf zwischen 0 und 1120 sein, random number generation
+		# Fass position ändern
+		zähler = zähler + 1
+		if zähler == 120:
+			zähler = 0
+			zufallX = random.uniform(0, 1120)  # Zufällige Zahl zwischen 0 und 1120
+```
