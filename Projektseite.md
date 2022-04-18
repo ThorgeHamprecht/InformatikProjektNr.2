@@ -39,6 +39,6 @@ Für die Umsetzung von infinitythrow mussten wir vor allen anderen Dingen ein gr
 Der letzte Teil unseres Projekts sollte die Simulation des Wurfs und das Anzeigen der Flugbahn in einem Programm werden. Dafür benötigten wir eine weitere Python-Bibliothek. Pygame ermöglicht uns das Anzeigen von einfachen 2D Grafiken und Kollisionserkennung zwischen diesen Objektenund eignet sich daher sehr gut für unsere Simulation. Des weiteren gibt es zu dieser Bibliothek unzählige Tutorials, die den Umgang mit pygame erheblich erleichtern.
 
 ## Der Code im Detail
-In der Code-Sektion ist unser gesamter Code zu finden. Dort sind die allermeisten Zeilen mit kurzen Stichpunkten erklärt. Auf dieser Projektseite werden die wichtigsten Funktionen von Infinity Throw im Detail erklärt.  
+In der [Code-Sektion](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Code.md) ist unser gesamter Code zu finden. Dort sind die allermeisten Zeilen mit kurzen Stichpunkten erklärt. Auf dieser Projektseite werden die wichtigsten Funktionen von Infinity Throw im Detail erklärt.  
 
 ### Ball Erkennung mit OpenCV
