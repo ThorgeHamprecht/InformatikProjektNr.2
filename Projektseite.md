@@ -44,4 +44,22 @@ In der [Code-Sektion](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/b
 ### Ball Erkennung mit OpenCV
 Die zentrale Stütze, auf der unser Projekt basiert, ist das Erkennen des Balls in einem Videostream. Wie schon zuvor genannt verwenden wir dafür OpenCV. Der Code stammt dabei aus dem Internet, da OpenCV für Einsteiger sehr kompliziert ist. Wir haben diesen daher als Grundlage für unser Projekt genommen, um ihn anschließend zu erweitern und anzupassen, damit wir Infinity Throw realisieren konnten. Trotzdem ist es wichtig die funktionsweise von OpenCV zu erläutern:
 
-Im Allgemeinen analysiert OpenCV dabei jeden Frame des von der Laptop-Webcam aufgenommenen Videos nach einem recht einfachen Prinzip. Zunächst wird das Bild auf einen zuvor eingestellten Farbbereich untersucht. Alle Punkte, die in dem Bild in dem ausgewähltem Farbbereich liegen, werden durch OpenCV markiert. Anschließend werden die Markierungen auf ihre Größe untersucht. Überschreiten sie dabei eine zuvor definierte Mindestgröße, so wird ein Objekt erkannt und das OpenCV kann nun die Koordinaten des Objekts auf dem Bildschirm angeben. Dies geschieht 60-mal die Sekunde mit dem aktuellen Bild, dass die Webcam aufnimmt. Somit kann die Bewegung des Balls verfolgt werden. Schlussendlich wird anhand einer Liste, in der sich alle aufgenommenen Positionen des Balles befinden, eine Linie zum nachverfolgen der Ballbewegung gezogen.
+Im Allgemeinen analysiert OpenCV dabei jeden Frame des von der Laptop-Webcam aufgenommenen Videos nach einem recht einfachen Prinzip. Zunächst wird das Bild auf einen zuvor eingestellten Farbbereich untersucht. Alle Punkte, die in dem Bild in dem ausgewähltem Farbbereich liegen, werden durch OpenCV markiert. Anschließend werden die Markierungen auf ihre Größe untersucht.
+```python
+if len(cnts) > 0:
+		# find the largest contour in the mask, then use
+		# it to compute the minimum enclosing circle and
+		# centroid
+		c = max(cnts, key=cv2.contourArea)
+		((x, y), radius) = cv2.minEnclosingCircle(c)
+		M = cv2.moments(c)
+		center = (int(M["m10"] / M["m00"]), int(M["m01"] / M["m00"]))
+		# only proceed if the radius meets a minimum size
+		if radius > 7:
+			# draw the circle and centroid on the frame,
+			# then update the list of tracked points
+			cv2.circle(frame, (int(x), int(y)), int(radius),
+					   (0, 255, 255), 2)
+			cv2.circle(frame, center, 5, (0, 0, 255), -1)
+```
+Überschreiten sie dabei eine zuvor definierte Mindestgröße, so wird ein Objekt erkannt und das OpenCV kann nun die Koordinaten des Objekts auf dem Bildschirm angeben. Dies geschieht 60-mal die Sekunde mit dem aktuellen Bild, dass die Webcam aufnimmt. Somit kann die Bewegung des Balls verfolgt werden. Schlussendlich wird anhand einer Liste, in der sich alle aufgenommenen Positionen des Balles befinden, eine Linie zum nachverfolgen der Ballbewegung gezogen.
