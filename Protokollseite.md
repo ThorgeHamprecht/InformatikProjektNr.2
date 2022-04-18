@@ -412,19 +412,19 @@ In dem Bereich von 0 Meter bis 2 Meter soll der Spieler bei einem Treffer einen 
 Dadurch wollen wir unser Spiel noch spannender machen.
 
 ```python
-		if kollisionMitte == True and xWurfweite >= 2:
-			print("getroffen")
-			kollisionAnzahl = kollisionAnzahl + 1
-			if kollisionAnzahl == 1:
-				scoreNumb = scoreNumb + 1
+if kollisionMitte == True and xWurfweite >= 2:
+	print("getroffen")
+	kollisionAnzahl = kollisionAnzahl + 1
+	if kollisionAnzahl == 1:
+		scoreNumb = scoreNumb + 1
     
-   if kollisionMitte == True and xWurfweite >= 4:
+   	if kollisionMitte == True and xWurfweite >= 4:
 			 print("getroffen")
 			 kollisionAnzahl = kollisionAnzahl + 1
 			 if kollisionAnzahl == 1:
 				 scoreNumb = scoreNumb + 2
      
-     if kollisionMitte == True and xWurfweite >= 6:
+     			 if kollisionMitte == True and xWurfweite >= 6:
 			   print("getroffen")
 			   kollisionAnzahl = kollisionAnzahl + 1
 			   if kollisionAnzahl == 1:
