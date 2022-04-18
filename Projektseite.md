@@ -83,5 +83,11 @@ if radius > 7:
 Nur wenn das erkannte Objekt diesen Radius übersteigt wird unsere Messdatenerhebung getstartet. Dies passiert durch den Boolian "objektErkennt", der bei einem Objekt, dass die Mindestgröße übersteigt auf "True" gesetzt wird.
 
 Lässt man nur diesen Teil des Programms laufen, so sieht das Ergebnis folgendermaßen aus:
-https://user-images.githubusercontent.com/88385813/163854054-dafdf0d0-bbf5-4611-a7eb-e0a3aeeef111.mp4
-Das Video der Webcam wird analysiert und die Bewegung des Balles mit einer Linie nachgezeichnet
+
+
+https://user-images.githubusercontent.com/88385813/163868786-1f89513b-5df0-4d96-a23b-fe141bec16a0.mp4
+
+
+Das Video der Webcam wird analysiert und die Bewegung des Balles mit einer Linie nachgezeichnet.
+
+### Aufnahme von Messpunkten (Aufnahme von Koordinaten des Balles zu unterschiedlichen Zeitpunkten)
