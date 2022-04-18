@@ -165,3 +165,92 @@ Dadurch erhalten wir die Funktion der Flugkurve des Balles, mit der wir später 
 
 ### Grundfunktionsweise der Simulation mit pygame
 ----------------------
+Auch die Simulation läuft wie das Ball-Tracking in einem Loop, der 60-mal die Sekunde ausgeführt wird. Dabei werden in pygame jeden Frame 2D-Objekte auf den Screen gemalt. Je später man ein Objekt also in dem Loop malt, desto höher ist die Ebene auf der sich das Objekt befindet. Das letzte im Loop gemalte Objekt ist also immer ganz oben über den anderen zu sehen. Die Simulation besteht deshalb aus sehr vielen Hintergrundobjekten, wie z.B. der Meterskalierung oder dem blauen Hintergrund, die jeden Frame an der gleichen Position gemalt werden und eigentlich nur dem Ball, der sich bewegen muss. Daher sind die meisten Zeilen der Simulation ausschließlich für das Platzieren von Hintergrundobjekten:
+```python
+screen.fill(pastellBlau)  # Bildschirm jeden Frame neu schwarz färben
+
+		pygame.draw.rect(screen, grau, (0, 760, 1200, 40))  # Den Boden jeden Frame platzieren
+
+		pygame.draw.rect(screen, weiß, (200, 760, 200, 40))  # Die Skalierungsfelder über den boden legen
+		pygame.draw.rect(screen, weiß, (600, 760, 200, 40))
+		pygame.draw.rect(screen, weiß, (1000, 760, 200, 40))
+
+		pygame.draw.rect(screen, hellGrau, (0, 780, 1200, 20))  # untere Leiste einzeichnen
+		# Feinskalierung einfügen
+		pygame.draw.rect(screen, schwarz, (19, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (39, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (59, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (79, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (99, 760, 2, 20))  # 50cm Linie, etwas höher
+		pygame.draw.rect(screen, schwarz, (119, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (139, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (159, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (179, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (199, 760, 2, 20))  # 1m
+		pygame.draw.rect(screen, schwarz, (219, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (239, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (259, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (279, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (299, 760, 2, 20))  # 1.50m
+		pygame.draw.rect(screen, schwarz, (319, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (339, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (359, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (379, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (399, 760, 2, 20))  # 2m
+		pygame.draw.rect(screen, schwarz, (419, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (439, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (459, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (479, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (499, 760, 2, 20))  # 2.50m
+		pygame.draw.rect(screen, schwarz, (519, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (539, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (559, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (579, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (599, 760, 2, 20))  # 3m
+		pygame.draw.rect(screen, schwarz, (619, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (639, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (659, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (679, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (699, 760, 2, 20))  # 3.50m
+		pygame.draw.rect(screen, schwarz, (719, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (739, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (759, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (779, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (799, 760, 2, 20))  # 4m
+		pygame.draw.rect(screen, schwarz, (819, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (839, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (859, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (879, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (899, 760, 2, 20))  # 4.5m
+		pygame.draw.rect(screen, schwarz, (919, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (939, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (959, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (979, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (999, 760, 2, 20))  # 5m
+		pygame.draw.rect(screen, schwarz, (1019, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1039, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1059, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1079, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1099, 760, 2, 20))  # 5.5m
+		pygame.draw.rect(screen, schwarz, (1119, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1139, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1159, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1179, 760, 2, 15))
+		pygame.draw.rect(screen, schwarz, (1199, 760, 2, 20))  # 6m
+		# Zahlenmarkierungen für Meter
+		screen.blit(länge50cm, l50cmObjekt)
+		screen.blit(länge100cm, l100cmObjekt)
+		screen.blit(länge150cm, l150cmObjekt)
+		screen.blit(länge200cm, l200cmObjekt)
+		screen.blit(länge250cm, l250cmObjekt)
+		screen.blit(länge300cm, l300cmObjekt)
+		screen.blit(länge350cm, l350cmObjekt)
+		screen.blit(länge400cm, l400cmObjekt)
+		screen.blit(länge450cm, l450cmObjekt)
+		screen.blit(länge500cm, l500cmObjekt)
+		screen.blit(länge550cm, l550cmObjekt)
+		screen.blit(länge600cm, l600cmObjekt)
+
+		pygame.draw.rect(screen, schwarz, fassKollision)
+
+```
