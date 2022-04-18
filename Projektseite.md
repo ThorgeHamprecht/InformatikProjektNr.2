@@ -10,7 +10,13 @@ https://user-images.githubusercontent.com/88385813/163590424-2e5dedc1-a03d-461c-
 infinitythrow ist ein Augmented Reality Spiel, das einen echten Ballwurf mit dem Ballwurf in einer Simulation verbindet. Grundsätzlich ist es dabei Ziel, den Ball in eine nur in der Simulation vorhandene Tonne zu werfen. Der Ball wird dabei in der realen Welt geworfen und anschließend ein dementsprechender Klon in der Simulation erstellt, der die selben Eigenschaften, also Geschwindigkeit und Bewegungsrichtung wie der echte Ball hat. Dabei gibt es zentral zwei Teile des Programmcodes: Zuerst die Erkennung der Flugkurve des Balls und anschließend die weitere Berechnung derselben in der Simulation und das Erkennen, ob der Ball die Tone getroffen hat.
 
 # Inhaltsverzeichnis
-
+1. [Projektseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Projektseite.md)
+2. [Code](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Code.md)
+3. [Protokollseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Protokollseite.md)
+4. [Stundenprotokoll](#prot)
+5. [Arbeitsmethoden](#Methoden)
+6. [Reflexion des Projekts](#Reflex)
+7. [Quellen](#Quellen)
 
 ## [Python](https://www.python.org/)
 ![IMG_0880](https://user-images.githubusercontent.com/88385813/157444258-77318303-ed05-49b7-8ace-10eebca0f0f5.png)
