@@ -525,3 +525,11 @@ y = (Abwurfhoehe + math.tan(Abwurfwinkel) * xLGS - (g / (2 * (Geschwindigkeit**2
 xLGS = np.arange(0, Wurfweite + 0.05, 0.01)
 yLGS = (a + b * (xLGS + 0.335) + c * (xLGS + 0.335)**2)
 ```
+## Der OpenCV Ball-Tracking Code aus dem Internet in einem unbearbeitetem Stück 
+```python
+```
+
+## Der Range-Test Code aus dem Internet zur Farbbestimmung des Balls
+```python
+
+```
