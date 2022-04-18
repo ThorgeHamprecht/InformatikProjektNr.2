@@ -39,7 +39,7 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
 
 1. [Projektseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Projektseite.md)
 2. [Code]()
-3. [Protokollseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/edit/main/Protokollseite.md)
+3. [Protokollseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Protokollseite.md)
 4. [Stundenprotokoll](#prot)
 5. [Arbeitsmethoden](#Methoden)
 6. [Reflexion des Projekts](#Reflex)
