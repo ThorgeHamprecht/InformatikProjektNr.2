@@ -90,4 +90,9 @@ https://user-images.githubusercontent.com/88385813/163868786-1f89513b-5df0-4d96-
 
 Das Video der Webcam wird analysiert und die Bewegung des Balles mit einer Linie nachgezeichnet.
 
+
+
+
 ### Aufnahme von Messpunkten (Aufnahme von Koordinaten des Balles zu unterschiedlichen Zeitpunkten)
+
+
