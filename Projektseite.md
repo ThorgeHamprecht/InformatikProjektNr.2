@@ -42,6 +42,7 @@ Der letzte Teil unseres Projekts sollte die Simulation des Wurfs und das Anzeige
 In der [Code-Sektion](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Code.md) ist unser gesamter Code zu finden. Dort sind die allermeisten Zeilen mit kurzen Stichpunkten erklärt. Auf dieser Projektseite werden die wichtigsten Funktionen von Infinity Throw im Detail erklärt.  
 
 ### Ball Erkennung mit OpenCV
+-----------------------------
 Die zentrale Stütze, auf der unser Projekt basiert, ist das Erkennen des Balls in einem Videostream. Wie schon zuvor genannt verwenden wir dafür OpenCV. Der Code stammt dabei aus dem Internet, da OpenCV für Einsteiger sehr kompliziert ist. Wir haben diesen daher als Grundlage für unser Projekt genommen, um ihn anschließend zu erweitern und anzupassen, damit wir Infinity Throw realisieren konnten. Trotzdem ist es wichtig die funktionsweise von OpenCV zu erläutern:
 
 Im Allgemeinen analysiert OpenCV dabei jeden Frame des von der Laptop-Webcam aufgenommenen Videos nach einem recht einfachen Prinzip. Zunächst wird das Bild auf einen zuvor eingestellten Farbbereich untersucht. Alle Punkte, die in dem Bild in dem ausgewähltem Farbbereich liegen, werden durch OpenCV markiert. Anschließend werden die Markierungen auf ihre Größe untersucht.
@@ -94,5 +95,5 @@ Das Video der Webcam wird analysiert und die Bewegung des Balles mit einer Linie
 
 
 ### Aufnahme von Messpunkten (Aufnahme von Koordinaten des Balles zu unterschiedlichen Zeitpunkten)
-
+--------------------------------
 
