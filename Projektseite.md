@@ -254,3 +254,12 @@ screen.fill(pastellBlau)  # Bildschirm jeden Frame neu schwarz färben
 		pygame.draw.rect(screen, schwarz, fassKollision)
 
 ```
+
+### Ballwegegung in der Simulation
+----------------
+Nachdem das LGS gelöst wurde und somit die Flugkurve des Balls berechnet wurde muss diese in der Simulation umgesetzt werden. Dafür muss der Ball jeden Frame eine gewisse Distanz bewegt werden. Die Geschwindigkeit auf der x-Achse wird dabei durch die zuvor aufgenommenen Zeitdifferenzen zwischen den Messpunkten bestimmt:
+
+```python
+# Geschwindigkeit in x richtung berechnen
+			xGeschwindigkeit = (x3 - x1)/((t1 + t2) / 2)
+```
