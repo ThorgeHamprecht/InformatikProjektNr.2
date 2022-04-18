@@ -96,4 +96,42 @@ Das Video der Webcam wird analysiert und die Bewegung des Balles mit einer Linie
 
 ### Aufnahme von Messpunkten (Aufnahme von Koordinaten des Balles zu unterschiedlichen Zeitpunkten)
 --------------------------------
+Für das Modellieren einer Flugbahn des Balles müssen zunächst Messpunkte aus dem Ball-Tracking entnommen werden. Dafür werden drei Messpunkte zu unterschiedlichen Zeitpunkten aufgenommen werden. Dabei musste beachtet werden, dass ein schnelles Aufnehmen der Messpunkte zwar ein schnelleres Vorhersagen der Flugkurve zulässt, aber auch weniger genau ist. Hier haben wir durch Ausprobieren einen guten Mittelwert gefunden. Dabei wird der erste Messpunkt nach 5/60 Sekunden aufgenommen, da der Loop 60-mal die Sekunde läuft und der Messpunkt nach 5 Sekunden aufgenommen wird. Dies geschieht allerdings erst nachdem der Ball überhaupt im Bild erkannt wurde, denn nur dann wird durch das anfängliche if-Statement der Code ausgeführt. Der zweite Messpunkt wird 15/60 Sekunden später aufgenommen und der finale Messpunkt noch einmal 15/60 Sekunden später. Für alle 3 Messpunkte gibt es sowohl eine Variable für die x-Koordinate als auch die y-Koordinate. Zum Zeitpunkt der Aufnahme des jeweiligen Messpunkts wird die aktuelle Position des Balls den Variablen gleichgesetzt. Somit können später in den Berechnungen alle Variablen einzeln und unabhängig voneinander verwendet werden. Zusätzlich werden auch noch die Zeitdifferenzen zwischen den Messpunkten für spätere Berechnungen aufgezeichnet. Abschließend werden die Messpunkte in der Konsole ausgeschreiben, um das "Debugging" bei möglichen fehlern zu erleichtern.
+```python
+if wdh < 120 and objektErkannt == True:
+		wdh = wdh + 1 # zählt die Anzahl an Durchläufen des Loops (60 Durchläufe pro Sekunde)
+		if wdh == 5 and objektErkannt == True: # Anzahl an Durchläufen nachdem Erkennen des Obejekts für Aufnahme des Messpunkts
 
+			# Ersten Messpunkt für LGS aufnehmen
+			x1 = (x / Streckfaktor)-108
+			x1Quadrat = x1 ** 2
+			y1 = (y / Streckfaktor) + Zusatzhoehe
+			start = time.time() # Zeitmessung für Zeitabstand zwischen erstem und zweitem Messpunkt beginnen
+			print("Erste Messung erfolgreich")
+			
+			
+		if wdh == 20: # Anzahl an Durchläufen nachdem Erkennen des Obejekts für Aufnahme des Messpunkts
+
+			#Zweiten Messpunkt für LGS aufnehmen
+			x2 = (x / Streckfaktor)-108
+			x2Quadrat = x2 ** 2
+			y2 = (y / Streckfaktor) + Zusatzhoehe
+			ende = time.time() # Zeitmessung stoppen
+			t1 = (ende - start) # Vergangene Zeit ausrechnen für t1
+			start = time.time() # Zeitmessung für t2 starten
+			print("Zweite Messung erfolgreich")
+
+		if wdh == 35:
+			#Dritten Messpunkt für LGS aufnehmen
+			x3 = (x / Streckfaktor)-108
+			x3Quadrat = x3 ** 2
+			y3 = (y/ Streckfaktor) + Zusatzhoehe
+
+			print("x1", x1)
+			print("x2", x2)
+			print("x3", x3)
+			print("y1", y1)
+			print("y2", y2)
+			print("y3", y3)
+
+```
