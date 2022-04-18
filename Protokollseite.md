@@ -148,6 +148,19 @@ In der zweiten Stunde haben wir probiert Teile der Recherche in tatsächlichen C
 Heute haben wir weiter daran gearbeitet die Formel vom schrägen Wurf in unser Projekt zu implementieren.
 
 ```python
+y = (Abwurfhoehe + math.tan(Abwurfwinkel) * xLGS - (g / (2 * (Geschwindigkeit**2) * (math.cos(Abwurfwinkel)**2)) * xLGS**2))
+```
+Zunächst ging es uns erst einmal darum die Formel des Schrägen-Wurfs in unseren Code zu implementieren. Dafür haben wir die verschiedenen Variablen eingefügt und die mathematische Logik kreiert.
+
+## Dienstag 25.01.2022<a name="acht"></a>
+
+Heute waren Sie krank. Zuhause haben wir weiter an unserem Projekt gearbeitet indem wir zum einen Github aktualisiert haben und zum anderen weiter an der Formel für den schrägen Wurf gearbeitet haben. Darüber hinaus haben wir uns bereits Gedanken darüber gemacht wie unsere Simulation aussehen soll und wie wir diese Ideen umsetzen können. Wir haben jedoch noch keine Recherche darüber betrieben wie wir unsere Idee umsetzen können.
+
+## Mittwoch 26. 01.2022<a name="neun"></a>
+Heute waren Sie leider krank. Zuhause haben wir es geschafft die Formel für den schrägen Wurf zu vervollständigen. Anschließend haben wir uns überlegt wie wir die entsprechenden Messwerte nutzen können, um sie in die Formel einzufügen und somit auch die Wurfweite ausrechnen zu können. 
+Wir haben uns dabei überlegt
+
+```python
 g = 9.8  # Gravitationskraft
 
 # Abwurfwinkel berechnen
@@ -162,17 +175,11 @@ Wurfweite = (((((math.tan(Abwurfwinkel)**2 * math.cos(Abwurfwinkel)**4) * Geschw
 # x-Werte und y-Werte definieren
 xLGS = np.arange(0, Wurfweite + 0.05, 0.01)
 y = (Abwurfhoehe + math.tan(Abwurfwinkel) * xLGS - (g / (2 * (Geschwindigkeit**2) * (math.cos(Abwurfwinkel)**2)) * xLGS**2))
+
+plt.plot(xLGS, yLGS)
 ```
+Zentral hierbei ist einerseits die Berechnung der wichtigen Größen wie Abwurfhöhe, Gravitationskraft, Abwurfwinkel und Abwurfgeschwindigkeit durch das auswerten der aufgenommen zwei Messpunkte. Mittels Vektorrechnung kann hier z.B. der Abwurfwinkel berechnet werden. Anschließend wird mit diesen Werten die Wurfweite mit der Formel für den Schrägen-Wurf berechnet und schlussendlich die x-Werte für die graphische Darstellung bis kurz über die Wurfweite hinaus definiert. Diese x-Werte werden dann in die normale Formel für den Schrägen-Wurf eingestezt und können dann graphisch dargestellt werden.
 
-## Dienstag 25.01.2022<a name="acht"></a>
-
-Heute waren Sie krank. Zuhause haben wir weiter an unserem Projekt gearbeitet indem wir zum einen Github aktualisiert haben und zum anderen weiter an der Formel für den schrägen Wurf gearbeitet haben. Darüber hinaus haben wir uns bereits Gedanken darüber gemacht wie unsere Simulation aussehen soll und wie wir diese Ideen umsetzen können. Wir haben jedoch noch keine Recherche darüber betrieben wie wir unsere Idee umsetzen können.
-
-## Mittwoch 26. 01.2022<a name="neun"></a>
-Heute waren Sie leider krank. Zuhause haben wir es geschafft die Formel für den schrägen Wurf zu vervollständigen. Anschließend haben wir uns überlegt wie wir die entsprechenden Messwerte nutzen können, um sie in die Formel einzufügen und somit auch die Wurfweite ausrechnen zu können. 
-Wir haben uns dabei überlegt
-
-HIER EIN BILD VOM CODE WIE WIR VORHER DIE BAHNKURVE BERECHNET HABEN. ZUDEM EINE KURZE ERKLÄRUNG WIE WIR DIE MESSDATEN AUSWERTEN UND WAS VORHER EINGESTELLT WERDEN MUSS. AM NÄCHSTEN TAG HABEN WIR JA BEREITS KALIBRIERT, DESWEGEN MUSS ALLE NOTWENDIGE HIER SCHON KLAR SEIN.
 
 ## Dienstag 01.02.2022<a name="zehn"></a>
 
@@ -224,12 +231,20 @@ Dennoch sind wir der Meinung, dass diese Methode im allgemeinen genauer ist.
 Heute haben wir die gestern ausprobierte Methode getestet.
 Dabei sind uns leider einige Fehler aufgefallen.
 
-DIAGRAMME HIER ICH WEIß LEIDER NICHT MEHR WELCHE FEHLER DAS WAREN VIELLEICHT WEIßT DU DAS JA:
+
+
+<img width="639" alt="Bildschirmfoto 2022-02-09 um 13 42 32" src="https://user-images.githubusercontent.com/88385813/163853305-965e2f83-35b1-41e7-bc11-24513e069b35.png">
+
+
 
 Zu der nächsten Stunde wollen wir ein weißes Bettlaken mitnehmen und zudem mit einer besserern Kamera gucken, ob unsere Werte dann besser sind.
 Aktuell ist das Ergebnis nämlich keinesfalls zufriedenstellend. Aus diesem Grund werden wir die erkäuterten Maßnahmen umsetzen und versuchen zu erfahren, ob unsere Messungen dadurch besser werden.
 
-HIER MP4
+
+
+
+https://user-images.githubusercontent.com/88385813/163854054-dafdf0d0-bbf5-4611-a7eb-e0a3aeeef111.mp4
+
 
 
 ## Dienstag 15.02.2022<a name="vierzehn"></a>
@@ -316,9 +331,16 @@ Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere neuen E
 ## Mittwoch 23.02.2022<a name="siebzehn"></a>
 
 Heute haben wir uns damit beschäftigt die Simulation anhand der vorher berechneten Bahnkurve zu bewegen. 
-Dabei war unsere Vorgehensweise: ERKLÄRUNG FEHLT
-Es ist dabei das Problem eingetreten: ERKLÄRUNG FEHLT
-Wir haben das Problem gelöst, indem wir: ERKLÄRUNG FEHLT UND BILD
+Dabei wollten wir den Ball in der Simulation in einer Animation die berechnete Bahnkurve entlang bewegen.
+Dabei hatten wir das Problem, nicht die richtige Geschwindigkeit für die Animation zu haben. Diese mussten wir erst aus den Messwerten berechnen, dafür haben wir neue Zeitmesspunkte in unsere Messpunkt Sektion eingefügt.
+
+```python
+# Geschwindigkeit in x-Richtung
+posX = posX + 14
+
+# Bahnkurve mit y-Werten
+posY = (abs((a + b * (posX + 0.335) + c * (posX + 0.335)**2) - 340)/200) + 420
+```
 
 ## Dienstag 01.03.2022<a name="achtzehn"></a>
 
@@ -343,13 +365,16 @@ Zudem wollen wir die Simulation noch ansprechender gestalten.
 ## Mittwoch 02.03.2022<a name="neunzehn"></a>
 
 Heute haben wir versucht den Ball in unserer Simulation nach dem er die geworfene Bahnkurve nachgebildet hat zum Stehen zu bringen.
-Dafür haben wir:
+Dafür haben wir einige if-Bedingungen eingefügt die erkken, wenn der Ball den Boden berührt und anschließend seine Position einfrieren.
 
-
-ERKLÄRUNG FEHLT
-
-GERNE AUCH MIT BILD
-
+```python
+    if posY >= 740:
+        posY = 740
+        if ballAmBoden == False:
+            xWurfweite = posX
+        posX =xWurfweite
+        ballAmBoden = True
+```
 
 
 
@@ -386,7 +411,25 @@ Hierbei haben wir uns ein Puntesystem überlegt, bei dem unterschiedliche Punkte
 In dem Bereich von 0 Meter bis 2 Meter soll der Spieler bei einem Treffer einen Punkt erhalten. Bei einen Treffer im Bereich 2 bis 4 Meter soll der Spieler bei einem Treffer zwei Punkte erhalten. Bei einem Treffer im Bereich 4 Meter bis 6 Meter bekommt der Spieler drei Punkte.
 Dadurch wollen wir unser Spiel noch spannender machen.
 
-HIER EINMAL EIN BILD VON DEM SCORE. ICH GLAUBE DU HAST DAS MIT 4-6 METER UND SO NICHT GEMACHT. DANN FÜGE EINFACH KÜNSTLICH MIT 3 PUNKTEN IN DER SKALA ODER SO EIN
+```python
+		if kollisionMitte == True and xWurfweite >= 2:
+			print("getroffen")
+			kollisionAnzahl = kollisionAnzahl + 1
+			if kollisionAnzahl == 1:
+				scoreNumb = scoreNumb + 1
+    
+   if kollisionMitte == True and xWurfweite >= 4:
+			 print("getroffen")
+			 kollisionAnzahl = kollisionAnzahl + 1
+			 if kollisionAnzahl == 1:
+				 scoreNumb = scoreNumb + 2
+     
+     if kollisionMitte == True and xWurfweite >= 6:
+			   print("getroffen")
+			   kollisionAnzahl = kollisionAnzahl + 1
+			   if kollisionAnzahl == 1:
+				   scoreNumb = scoreNumb + 3
+```
 
 ## Dienstag 22.03.2022<a name="vierundzwanzig"></a>
 
