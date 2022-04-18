@@ -148,9 +148,9 @@ In der zweiten Stunde haben wir probiert Teile der Recherche in tatsächlichen C
 Heute haben wir weiter daran gearbeitet die Formel vom schrägen Wurf in unser Projekt zu implementieren.
 
 HIER KURZE ERKLÄRUNG WIE WIR DAS GEMACHT HABEN MIT BILD VOM CODE
-   Python
+```python
 y = (Abwurfhoehe + math.tan(Abwurfwinkel) * xLGS - (g / (2 * (Geschwindigkeit**2) * (math.cos(Abwurfwinkel)**2)) * xLGS**2))
-   
+```
 
 ## Dienstag 25.01.2022<a name="acht"></a>
 
