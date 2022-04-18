@@ -291,3 +291,34 @@ Nun wo die Simulation die Flugkurve des Balles richtig darstellt muss nur noch d
 			zähler = 0
 			zufallX = random.uniform(0, 1120)  # Zufällige Zahl zwischen 0 und 1120
 ```
+Um zu erkkennen, ob der Ball das Fass getroffen hat muss eine Kollisionskontrolle eingefügt werden, die die Position des Fasses mit der des Balls vergleicht. Pygame hat dafür eine Funktion um Kollision zwischen Objekten zu überprüfen. Dabei kann überprüft werden, ob sich ein Punkt (der Ball) in einem Rechteck (das Fass) befindet. Trifft der Ball das Fass befindet er sich also in der Rechteckigen-Hitbox des Fasses. Passiert dies, so erhält der Spieler Punkte für den erfolgreichen Wurf.
+```python
+fassKollision = pygame.Rect((posFass + 9, 660), (75, 100))
+		punkt = (posX, posY)
+		kollisionMitte = fassKollision.collidepoint(punkt)
+		kollisionLinks = fassKollision.collidepoint(ballXlinks)
+		kollisionRechts = fassKollision.collidepoint(ballXrechts)
+		if kollisionMitte == True:
+			print("getroffen")
+			kollisionAnzahl = kollisionAnzahl + 1
+			if kollisionAnzahl == 1:
+				scoreNumb = scoreNumb + 1
+
+			if kollisionRechts == True:
+				print("getroffen")
+			if kollisionLinks == True:
+				print("getroffen")
+# Funktion aus Werten für LGS erstellen
+		posX = posX + 1/60 * xGeschwindigkeit
+		posY = (a + b * (posX) + c * (posX) ** 2)
+		if posY >= 740:
+			posY = 740
+			if ballAmBoden == False:
+				xWurfweite = posX
+			posX = xWurfweite
+			ballAmBoden = True
+			if ballAmBoden == True and kollisionMitte == False:
+				danebenText = schriftArtTreffer.render(("Daneben! ( " + posXstring + " cm )"), True, rot, pastellBlau)
+				screen.blit(danebenText, danebenObjekt)
+
+```
