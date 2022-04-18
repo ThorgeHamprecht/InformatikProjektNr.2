@@ -1,3 +1,6 @@
+# Der finale Code 
+Der Code ist zum größten Teil von uns verfasst. Nur Zeilen, vor denen mit # englische Erklärungen stehen stammen nicht von uns. 
+
 ```python
 # importieren der notwendigen Bibliotheken
 
