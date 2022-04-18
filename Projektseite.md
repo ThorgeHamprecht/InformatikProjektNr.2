@@ -62,4 +62,22 @@ if len(cnts) > 0:
 					   (0, 255, 255), 2)
 			cv2.circle(frame, center, 5, (0, 0, 255), -1)
 ```
-Überschreiten sie dabei eine zuvor definierte Mindestgröße, so wird ein Objekt erkannt und das OpenCV kann nun die Koordinaten des Objekts auf dem Bildschirm angeben. Dies geschieht 60-mal die Sekunde mit dem aktuellen Bild, dass die Webcam aufnimmt. Somit kann die Bewegung des Balls verfolgt werden. Schlussendlich wird anhand einer Liste, in der sich alle aufgenommenen Positionen des Balles befinden, eine Linie zum nachverfolgen der Ballbewegung gezogen.
+Überschreiten sie dabei eine zuvor definierte Mindestgröße, so wird ein Objekt erkannt und das OpenCV kann nun die Koordinaten des Objekts auf dem Bildschirm angeben. Dies geschieht 60-mal die Sekunde mit dem aktuellen Bild, dass die Webcam aufnimmt. Somit kann die Bewegung des Balls verfolgt werden. Schlussendlich wird anhand einer Liste, in der sich alle aufgenommenen Positionen des Balles befinden, eine Linie zum Nachverfolgen der Ballbewegung gezogen.
+
+Für Infinity Throw haben wir dabei mit einem Programm zum Analysieren des Farbbereichs eines Objekts den Farbbereich unseres Balles bestimmt und in den Code eingefügt.
+```python
+#Farbbereich für den zu trackenden Ball
+greenLower = (86, 39, 97)
+greenUpper = (179, 228, 255)
+```
+Auch einen Mindestradius des Objekts haben wir nach einigen Tests auf 7 festgelegt. Mit dieser Größe haben wir die besten Ergebnisse erzielt.
+```python
+if radius > 7:
+			# draw the circle and centroid on the frame,
+			# then update the list of tracked points
+			cv2.circle(frame, (int(x), int(y)), int(radius),
+					   (0, 255, 255), 2)
+			cv2.circle(frame, center, 5, (0, 0, 255), -1)
+			objektErkannt = True
+```
+Nur wenn das erkannte Objekt diesen Radius übersteigt wird unsere Messdatenerhebung getstartet. Dies passiert durch den Boolian "objektErkennt", der bei einem Objekt, dass die Mindestgröße übersteigt auf "True" gesetzt wird.
