@@ -41,9 +41,8 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
 2. [Code](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Code.md)
 3. [Protokollseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Protokollseite.md)
 4. [Stundenprotokoll](#prot)
-5. [Arbeitsmethoden](#Methoden)
-6. [Reflexion des Projekts](#Reflex)
-7. [Quellen](#Quellen)
+5. [Reflexion des Projekts](#Reflex)
+6. [Quellen](#Quellen)
 
 
 ## :ledger:Stundenprotokoll<a name="prot"></a>
@@ -450,8 +449,6 @@ In den Osterferien haben wir unser Projekt beendet. Wir haben uns bei Jannik get
 Bei unserem Projekt haben wir alle kleinen Fehler noch behoben und Github beendet.
 Zudem haben wir noch Ihre Anregung umgesetzt, die Sie uns gegeben haben während wir mit Ihnen gesprochen haben. Dafür haben wir den Laptop an den Beamer in Janniks Keller angeschlossen und die Simulation geöffnet. Wie in dem Video zu erkennen braucht der Computer nur eine ganz kurze Zeit bis die tatsächliche Simulation an der Wand startet. Somit beginnt die Simulation bereits wenn der Ball sich noch in der Luft befindet.
 Wir sind sehr froh, dass wir unser Projekt nun abschließen konnten und alles nach unseren Vorstellungen funktioniert.
-
-## 🔧Arbeitsmethoden<a name="Methoden"></a>
 
 ## 📥Reflexion des Projekts<a name="Reflex"></a>
 
