@@ -37,11 +37,13 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
 
 ## Inhaltsverzeichnis
 
-1. [Projektseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Projektseite%20Informatik%20Projekt%202)
-2. [Stundenprotokoll](#prot)
-3. [Arbeitsmethoden](#Methoden)
-4. [Reflexion des Projekts](#Reflex)
-5. [Quellen](#Quellen)
+1. [Projektseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Projektseite.md)
+2. [Code]()
+3. [Protokollseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/edit/main/Protokollseite.md)
+4. [Stundenprotokoll](#prot)
+5. [Arbeitsmethoden](#Methoden)
+6. [Reflexion des Projekts](#Reflex)
+7. [Quellen](#Quellen)
 
 
 ## :ledger:Stundenprotokoll<a name="prot"></a>
