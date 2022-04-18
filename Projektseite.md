@@ -263,3 +263,17 @@ Nachdem das LGS gelöst wurde und somit die Flugkurve des Balls berechnet wurde 
 # Geschwindigkeit in x richtung berechnen
 			xGeschwindigkeit = (x3 - x1)/((t1 + t2) / 2)
 ```
+Dies ist dann eine Geschwindigkeit in x-Einheiten pro Sekunde. Mit dieser Information und der berechneten Flugkurve kann die Position des Balls dann in echtzeit verändert werden, so das die reale Flugkurve in der Simulation nachgestellt wird:
+```python
+# Positionsänderung des Kreises gemäß der Bahnkurve und der Zeit
+
+		# Funktion aus Werten für LGS erstellen
+		posX = posX + 1/60 * xGeschwindigkeit
+		posY = (a + b * (posX) + c * (posX) ** 2)
+		if posY >= 740:
+			posY = 740
+			if ballAmBoden == False:
+				xWurfweite = posX
+			posX = xWurfweite
+			ballAmBoden = True
+```
