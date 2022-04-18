@@ -138,3 +138,25 @@ if wdh < 120 and objektErkannt == True:
 
 ### Das Errechnen einer Flugkurve nach Aufnahme der Messpunkte
 -------------------
+```python
+x1 = 0.2
+x1Quadrat = x1**2
+y1 = 1.18
+x2 = 0.4
+x2Quadrat = x2**2
+y2 = 1.3
+x3 = 0.6
+x3Quadrat = x3**2
+y3 = 1.38
+
+
+A = np.array([[1, x1, x1Quadrat], [1, x2, x2Quadrat], [1, x3, x3Quadrat]])
+B = np.array([y1, y2, y3])
+X = np.linalg.solve(A,B)
+
+a = X[0]
+b = X[1]
+c = X[2]
+
+y = (a + b * x + c * x**2)
+```
