@@ -19,8 +19,8 @@ infinitythrow ist ein Augmented Reality Spiel, das einen echten Ballwurf mit dem
 7. [Quellen](#Quellen)
 
 ## [Python](https://www.python.org/)
-<img width="100" alt="Bildschirmfoto 2022-04-18 um 19 35 09" src="https://user-images.githubusercontent.com/88385813/157444258-77318303-ed05-49b7-8ace-10eebca0f0f5.png"> 
-<img width="772" alt="Bildschirmfoto 2022-04-18 um 19 35 09" src="">
+<img width="150" alt="Bildschirmfoto 2022-04-18 um 19 35 09" src="https://user-images.githubusercontent.com/88385813/157444258-77318303-ed05-49b7-8ace-10eebca0f0f5.png"> 
+<img width="150" alt="Bildschirmfoto 2022-04-18 um 19 35 09" src="">
 Für die Umsetzung unseres Projektes haben wir Python genutzt. Wir haben uns für python entschieden, da Python sich vor allen Dingen durch seine leichte Syntax und vielseitigen Anwendungsgebiete auszeichnet. Dabei kann das Grundgerüst von Python durch viele andere Bibliotheken erweitert und angepasst werden. Da wir zu Anfang unseres projektes noch keine genaue Vorstellung von dem Endprodukt unseres Projekts hatten, stellte Python genau das richtige Grundgerüst dar, um unser Programm später nach unseren Vorstellungen zu erweitern. Des weiteren ist Python auch sehr ähnlich zu C#, eine Programmiersprache mit der wir schon einmal in der Projektfindungsphase des ersten projekts Erfahrungen gemacht hatten.
 
 ## [PyCharm](https://www.jetbrains.com/pycharm/)
