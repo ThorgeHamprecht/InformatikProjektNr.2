@@ -277,3 +277,7 @@ Dies ist dann eine Geschwindigkeit in x-Einheiten pro Sekunde. Mit dieser Inform
 			posX = xWurfweite
 			ballAmBoden = True
 ```
+Außerdem wird die Bewegung des Balls eingefroren, sobald er den Boden berührt, der sich auf der Höhe 740 befindet. Kurze Zeit danach ist das Programm dann bereit für den nächsten Wurf.
+
+### Treffer mit dem Fass registrieren
+------------------
