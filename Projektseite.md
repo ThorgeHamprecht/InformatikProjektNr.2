@@ -138,6 +138,7 @@ if wdh < 120 and objektErkannt == True:
 
 ### Das Errechnen einer Flugkurve nach Aufnahme der Messpunkte
 -------------------
+Nach einigem herumprobieren mit anderen Methoden schaffte es die Modellierung der Flugkurve des Balls durch ein Lineares-Gleichungssystem schlussendlich in Infinity Throw, da dieses die genauesten Ergebnisse lieferte. Da wir durch die physikalischen Begebenheiten eines schrägen Wurfes wussten, dass wir nach einer Funktion zweiten Grades suchen, ist das zugehörige Gleichungssystem recht leicht aufzustellen und kann mittels einer Bibliothek in Python leicht gelöst werden. Hierbei müssen lediglich die Messwerte und die Quadrate der x-Koordinaten in die Funktion zum Lösen von LGS eingesetzt werden und die Funktion berechnet anschließen die Werte a, b und c nach dem Schema einer Funktion a + b * x + c * x^2.
 ```python
 x1 = 0.2
 x1Quadrat = x1**2
@@ -160,3 +161,7 @@ c = X[2]
 
 y = (a + b * x + c * x**2)
 ```
+Dadurch erhalten wir die Funktion der Flugkurve des Balles, mit der wir später unsere Simulation speisen können.
+
+### Grundfunktionsweise der Simulation mit pygame
+----------------------
