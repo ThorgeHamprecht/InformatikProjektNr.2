@@ -147,8 +147,20 @@ In der zweiten Stunde haben wir probiert Teile der Recherche in tatsächlichen C
 
 Heute haben wir weiter daran gearbeitet die Formel vom schrägen Wurf in unser Projekt zu implementieren.
 
-HIER KURZE ERKLÄRUNG WIE WIR DAS GEMACHT HABEN MIT BILD VOM CODE
 ```python
+g = 9.8  # Gravitationskraft
+
+# Abwurfwinkel berechnen
+winkelMess = (math.acos(((((messZweiX - messEinsX)**2)**0.5) * 1) / (((messZweiX - messEinsX)**2 + (messZweiY - messEinsY)**2)**0.5)))
+
+# Geschwindigkeit aus Messwerten berechnen
+geschwMess = ((((messZweiX - messEinsX) + (messZweiY - messEinsY))**0.5) / messZeit)
+
+# Wurfweite berechnen
+Wurfweite = (((((math.tan(Abwurfwinkel)**2 * math.cos(Abwurfwinkel)**4) * Geschwindigkeit**4 + 2 * math.cos(Abwurfwinkel)**2 * g * Geschwindigkeit**2 * Abwurfhoehe) / g**2)**0.5) + (math.tan(Abwurfwinkel) * math.cos(Abwurfwinkel)**2 * Geschwindigkeit**2) / g)
+
+# x-Werte und y-Werte definieren
+xLGS = np.arange(0, Wurfweite + 0.05, 0.01)
 y = (Abwurfhoehe + math.tan(Abwurfwinkel) * xLGS - (g / (2 * (Geschwindigkeit**2) * (math.cos(Abwurfwinkel)**2)) * xLGS**2))
 ```
 
