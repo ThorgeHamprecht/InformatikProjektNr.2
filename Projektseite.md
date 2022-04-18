@@ -322,3 +322,7 @@ fassKollision = pygame.Rect((posFass + 9, 660), (75, 100))
 				screen.blit(danebenText, danebenObjekt)
 
 ```
+Schlussendlich wird dem Spieler noch eine Nachricht angezeigt, je nachdem ob er getroffen hat oder nicht. Danach wird das Fass neu platziert und der Spieler kann erneut werfen.
+
+### Schlusswort
+So kann Infinity Throw Realität und Digitkes verbinden. Mit einem Beamer kann fast in echtzeit auch das Ergebnis des Wurfes auf der Wand angezeigt werden, so wird die Spielerfahrung noch immersiver. Dies ist auch in dem eingangs eingefügtem Video zu sehen. 
