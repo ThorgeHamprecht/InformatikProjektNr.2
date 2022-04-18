@@ -3,10 +3,7 @@
 1. [Projektseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Projektseite.md)
 2. [Code](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Code.md)
 3. [Protokollseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Protokollseite.md)
-4. [Stundenprotokoll](#prot)
-5. [Arbeitsmethoden](#Methoden)
-6. [Reflexion des Projekts](#Reflex)
-7. [Quellen](#Quellen)
+
 ## Der finale Code 
 Der Code ist zum größten Teil von uns verfasst. Nur Zeilen, vor denen mit # englische Erklärungen stehen stammen nicht von uns. 
 
