@@ -53,7 +53,7 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
  <table>
   <tr>
     <td><a href=#eins>Dienstag, 14. Dezember</a></td>
-    <td><a href=#zwei>Mittwoch, 15. Dezembert</a></td>
+    <td><a href=#zwei>Mittwoch, 15. Dezember</a></td>
     <td><a href=#drei>Dienstag, 21. Dezember</a></td>
     <td><a href=#vier>Dienstag, 11. Januar</a></td>
     <td><a href=#fünf>Mittwoch, 12. Januar</a></td>
@@ -321,7 +321,7 @@ Heute haben wir uns mit der weiteren Recherche bezüglich unserer Simulation bes
 Zudem haben wir weiter unseren Code beschrieben.
 Des Weiteren haben wir einen Teil des Codes verändert, um ihn an unsere neuen Erkenntnisse anzupassen.
 
-**Messwerte den Messungen von zuhause**
+**Messwerte der Messungen von zuhause**
 
 <img width="331" alt="Bildschirmfoto 2022-02-15 um 15 28 48" src="https://user-images.githubusercontent.com/88385954/156193089-e9ef5838-9388-4806-bc43-0606b51f097d.png">
 
