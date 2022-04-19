@@ -3,6 +3,12 @@ Unser zweites Projekt im Informatikkurs der 12. Klasse.
 
 **Infinity Throw**
 
+
+
+https://user-images.githubusercontent.com/88385813/163996862-a0cb4743-8a18-4a68-9a99-dc93642bad58.mp4
+
+
+
 **Das Spielkonzept - Grundlagen:**
 
 Unsere Idee ist es ein Spiel zu entwickeln, welches die reale Welt mit der virtuellen Welt verbindet.
