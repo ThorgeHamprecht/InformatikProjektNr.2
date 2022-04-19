@@ -84,10 +84,9 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
     <td><a href=#zweiundzwanzig>Dienstag, 15. März </a></td>
     <td><a href=#dreiundzwanzig>Mittwoch, 16. März </a></td>
     <td><a href=#vierundzwanzig>Dienstag, 22. März </a></td>
-    <td><a href=#fünfundwanzig>Mittwoch, 23. März </a></td>
+    <td><a href=#fünfundwanzig>Dienstag, 29. März </a></td>
   </tr>
   <tr>
-    <td><a href=#sechsundzwanzig>Dienstag, 29. März </a></td>
     <td><a href=#finalefertigstellungosterferien>Finale Fertigstellung in den Osterferien </a></td>
   </tr>
 </table>
