@@ -1,7 +1,7 @@
 # Informatik Projekt Nr. 2
 Unser zweites Projekt im Informatikkurs der 12. Klasse.
 
-**Infinitythrow**
+**Infinity Throw**
 
 **Das Spielkonzept - Grundlagen:**
 
@@ -81,13 +81,13 @@ Darüber hinaus besteht die Möglichkeit unser Projekt frei zu benutzen, also na
   </tr>
   <tr>
     <td><a href=#einundzwanzig>Mittwoch, 09. März </a></td>
-    <td><a href=#siebzehn>Dienstag, 15. März </a></td>
-    <td><a href=#achtzehn>Mittwoch, 16. März </a></td>
-    <td><a href=#neunzehn>Dienstag, 22. März </a></td>
-    <td><a href=#zwanzig>Mittwoch, 23. März </a></td>
+    <td><a href=#zweiundzwanzig>Dienstag, 15. März </a></td>
+    <td><a href=#dreiundzwanzig>Mittwoch, 16. März </a></td>
+    <td><a href=#vierundzwanzig>Dienstag, 22. März </a></td>
+    <td><a href=#fünfundwanzig>Mittwoch, 23. März </a></td>
   </tr>
   <tr>
-    <td><a href=#sechzehn>Dienstag, 29. März </a></td>
+    <td><a href=#sechsundzwanzig>Dienstag, 29. März </a></td>
     <td><a href=#finalefertigstellungosterferien>Finale Fertigstellung in den Osterferien </a></td>
   </tr>
 </table>
