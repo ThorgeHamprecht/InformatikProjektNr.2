@@ -468,6 +468,8 @@ Insgesamt hat uns das Projekt jedoch großen Spaß gemacht und wir sind sehr zuf
 
 ## ℹ️Quellen<a name="Quellen"></a>
 
+[OpenCV](https://opencv.org/)
+
 [Balltracking mit OpenCV](https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
 
 [Tool für Farberkennung](https://github.com/hariangr/HsvRangeTool)
