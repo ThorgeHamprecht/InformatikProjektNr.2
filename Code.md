@@ -5,7 +5,7 @@
 3. [Protokollseite](https://github.com/ThorgeHamprecht/InformatikProjektNr.2/blob/main/Protokollseite.md)
 
 ## Der finale Code 
-Der Code ist zum größten Teil von uns verfasst. Nur Zeilen, vor denen mit # englische Erklärungen stehen stammen nicht von uns. Der Code zur Ballerkennung stammt von  Adrian Rosebrock aus seinem [Blog](https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/) zum Thema "Ball Tracking with OpenCV". Dabei wird die [OpenCV-Lybrary](https://opencv.org/) verwendet.
+Der Code ist zum größten Teil von uns verfasst. Nur Zeilen, vor denen mit # englische Erklärungen stehen stammen nicht von uns. Der Code zur Ballerkennung stammt von  Adrian Rosebrock aus seinem [Blog](https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/) zum Thema "Ball Tracking with OpenCV". Dabei wird die [OpenCV-Lybrary](https://opencv.org/) verwendet. Der zusätzlich zum Bestimmen des Farbraumes des balles verwendete Code stammt von hariangr. Dieser hat ein Github-Repository zu seinem [HSV-Range-Tool](https://github.com/hariangr/HsvRangeTool).
 
 
 
