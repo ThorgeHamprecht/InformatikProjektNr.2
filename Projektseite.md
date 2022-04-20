@@ -326,3 +326,12 @@ Schlussendlich wird dem Spieler noch eine Nachricht angezeigt, je nachdem ob er 
 
 ### Schlusswort
 So kann Infinity Throw Realität und Digitkes verbinden. Mit einem Beamer kann fast in echtzeit auch das Ergebnis des Wurfes auf der Wand angezeigt werden, so wird die Spielerfahrung noch immersiver. Dies ist auch in dem eingangs eingefügtem Video zu sehen. 
+
+
+## Quellen
+
+[OpenCV](https://opencv.org/)
+
+[Balltracking mit OpenCV](https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+
+[Tool für Farberkennung](https://github.com/hariangr/HsvRangeTool)
