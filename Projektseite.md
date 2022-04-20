@@ -333,6 +333,6 @@ So kann Infinity Throw Realität und Digitkes verbinden. Mit einem Beamer kann f
 
 [OpenCV](https://opencv.org/)
 
-[Balltracking mit OpenCV](https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+[Balltracking mit OpenCV von Adrain Rosebrock](https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
 
 [Tool für Farberkennung](https://github.com/hariangr/HsvRangeTool)
